@@ -1,0 +1,18 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <title>IATI 2 LOD model</title>
+    <link rel="stylesheet" type="text/css" href="css/main.css"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
+  </head>
+  <body>
+  	<h1>{{ model.0 }}</h1>
+  	<br><br>
+	{% for entry in activities %}
+		<ul>
+			<li><a href="/model?model={{ entry.1 }}">{{ entry.0 }}</a></li>
+		</ul>
+	{% endfor %}
+  </body>
+</html>

@@ -1,0 +1,15 @@
+body {
+    font-family: arial, sans-serif;
+}
+
+ul, ol, p {
+    font-size: 15px;
+    line-height: 5px;
+    margin-bottom: 1.625em;
+}
+a, a:link {
+    color: #0098db;
+}
+a:visited {
+    color: #0098db;
+}
