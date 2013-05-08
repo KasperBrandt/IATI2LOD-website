@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <title>IATI 2 LOD model - Visualizations</title>
+    <link rel="stylesheet" type="text/css" href="/css/main.css"/>
+    <link rel="shortcut icon" href="/images/iati.ico"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
+  </head>
+  <body>
+  	<div id="container">
+  		<div id="header"></div>
+  		<div id="main">
+  			<div id="logo">
+  				<a href="http://iatiregistry.org"><img src="/images/iati-logo.png"></a>
+  				<img src="/images/two-logo.png">
+  				<img src="/images/lod-logo.png">
+  			</div>
+  			
+  			<div id="nav">
+  				{{ nav }}
+  			</div>
+  			
+  			<div id="subnav">
+  				{{ subnav }}
+  			</div>
+  	
+  			<div id="content">
+  			
+  				<div id="activities">
+  					<h1>Activities</h1>
+  					<dl>
+					{% for entry in activities %}
+						<dt><a href="/model/visualizations?viz={{ entry.0 }}">{{ entry.0 }}</a></dt>
+						{% for entity in entry.1 %}
+						<dd> - {{ entity }} </dd>
+						{% endfor %}
+					{% endfor %}
+					</dl>
+				</div>
+				
+  				<div id="organisations">
+  					<h1>Organisations</h1>
+  					<dl>
+					{% for entry in organisations %}
+						<dt><a href="/model/visualizations?viz={{ entry.0 }}">{{ entry.0 }}</a></dt>
+						{% for entity in entry.1 %}
+						<dd> - {{ entity }} </dd>
+						{% endfor %}
+					{% endfor %}
+					</dl>
+				</div>
+				
+  				<div id="codelists">
+  					<h1>Codelists</h1>
+  					<dl>
+					{% for entry in codelists %}
+						<dt><a href="/model/visualizations?viz={{ entry.0 }}">{{ entry.0 }}</a></dt>
+						{% for entity in entry.1 %}
+						<dd> - {{ entity }} </dd>
+						{% endfor %}
+					{% endfor %}
+					</dl>
+				</div>
+				
+  				<div id="provenance">
+  					<h1>Provenance</h1>
+  					<dl>
+					{% for entry in provenance %}
+						<dt><a href="/model/visualizations?viz={{ entry.0 }}">{{ entry.0 }}</a></dt>
+						{% for entity in entry.1 %}
+						<dd> - {{ entity }} </dd>
+						{% endfor %}
+					{% endfor %}
+					</dl>
+				</div>
+				
+			</div>
+		</div>
+		<div id="footernote">
+			<a href="mailto:kasperbrandt87@gmail.com">Kasper Brandt</a> © 2013
+		</div>
+		<div id="footer"></div>
+	</div>
+  </body>
+</html>

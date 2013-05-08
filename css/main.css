@@ -1,15 +1,164 @@
 body {
     font-family: arial, sans-serif;
+    background-color: #f7f7f7;
+    font-size: 15px;
 }
 
 ul, p {
-    font-size: 15px;
-    line-height: 5px;
-    margin-bottom: 1.625em;
+    line-height: 15px;
 }
+
+ol {
+	font-weight:bold
+}
+
+div#container {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+div#header {
+    position: relative;
+    width: 100%;
+    height: 50px; 
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: #0098db;
+    border-top-left-radius: 50px 20px;
+    border-top-right-radius: 50px 20px;
+}
+
+div#logo {
+	float:right;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	background-color: white;
+}
+
+div#nav {
+	padding-top: 5px;
+	padding-left: 5px;
+	height: 30px;
+	width: 90%;
+	background-color: #a2ad00;
+	font-size: 20px;
+}
+
+div#nav a {
+	color: white;
+	text-decoration: none
+}
+
+div#nav a#select {
+	color: white;
+	font-weight:bold;
+	text-decoration: none
+}
+
+div#subnav {
+	padding-top: 10px;
+	padding-left: 5px;
+	height: 25px;
+	width: 90%;
+	background-color: #00693c;
+	font-size: 13px;
+}
+
+div#subnav a {
+	color: white;
+	text-decoration: none
+}
+
+div#subnav a#select {
+	color: white;
+	font-weight:bold;
+	text-decoration: none
+}
+
+div#footer {
+    position: relative;
+    width: 100%;
+    height: 50px; 
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: #0098db;
+    border-bottom-left-radius: 50px 20px;
+    border-bottom-right-radius: 50px 20px;	
+}
+
+div#main {
+	background-color: white;
+}
+
+div#content {
+    padding-bottom: 20px;
+    padding-right: 5px;
+    padding-left: 5px;
+    display: inline-block;
+}
+
+div#activities,
+div#organisations,
+div#codelists,
+div#provenance {
+	float: left;
+	padding-right:75px;
+}
+
+div#namespace {
+	float: left;
+	width: 40%;
+}
+
+div#legend {
+	float: left;
+}
+
+div#footernote {
+	background-color: white;
+	text-align: right;
+	padding-bottom: 5px;
+	padding-right: 5px;
+}
+
+div#deschead {
+	background-color: #1a206d;
+	color: white;
+	font-weight:bold;
+	font-size: 22px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+div#describe {
+	font-style:italic;
+	padding-top: 4px;
+	padding-bottom: 10px;
+}
+
+div#descrels {
+	padding-bottom: 30px;	
+}
+
+table {
+	border-collapse: collapse;
+	width: 1000px;
+	border: 1;
+}
+
+table td,th {
+	padding: 5px;
+}
+
 a, a:link {
     color: #0098db;
 }
+
 a:visited {
     color: #0098db;
 }

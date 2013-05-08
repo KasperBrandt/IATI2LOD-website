@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <title>IATI 2 LOD model</title>
+    <link rel="stylesheet" type="text/css" href="/css/main.css"/>
+    <link rel="shortcut icon" href="/images/iati.ico"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
+  </head>
+  <body>
+  	<div id="container">
+  		<div id="header"></div>
+  		<div id="main">
+  			<div id="logo">
+  				<a href="http://iatiregistry.org"><img src="/images/iati-logo.png"></a>
+  				<img src="/images/two-logo.png">
+  				<img src="/images/lod-logo.png">
+  			</div>
+  			
+  			<div id="nav">
+  				{{ nav }}
+  			</div>
+  			
+  			<div id="subnav">
+  				{{ subnav }}
+  			</div>
+  	
+  			<div id="content">
+				<h1>{{ type }}</h1>
+				
+				<h2>Index</h2>
+				<ul>
+					{% for item in index %}
+						<li>{{ item }}</li>
+					{% endfor %}
+					<li><a href="#namespaces">Namespaces</a></li>
+				</ul>
+				
+				{% for entry in contents %}
+					
+					<div id="deschead">
+						{{ entry.0 }}
+					</div>
+					
+					<div id="describe">
+						{{ entry.1 }}
+					</div>
+					
+					<div id="descrels">
+						<table width="600px" border="1">
+						<th>Predicate</th>
+						<th>Object</th>
+						{% for relation in entry.2 %}
+							<tr>
+								{% for uri in relation %}
+									<td>{{ uri }}</td>
+								{% endfor %}
+							</tr>
+						{% endfor %}
+						</table>
+					</div>
+					
+				{% endfor %}
+				
+  				<a name="namespaces"></a><h2>Namespaces</h2>
+  				iati: http://purl.org/collections/iati/<br>
+  				rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#<br>
+  				rdfs: http://www.w3.org/2000/01/rdf-schema#<br>
+				skos: http://www.w3.org/2008/05/skos#<br>
+				dct: http://purl.org/dc/terms/<br>
+				foaf: http://xmlns.com/foaf/0.1/<br>
+				org: http://www.w3.org/ns/org#<br>
+				geo: http://www.w3.org/2003/01/geo/wgs84_pos#<br>
+				cc: http://creativecommons.org/ns#<br>
+				
+			</div>
+		</div>
+		<div id="footernote">
+			<a href="mailto:kasperbrandt87@gmail.com">Kasper Brandt</a> © 2013
+		</div>
+		<div id="footer"></div>
+	</div>
+  </body>
+</html>

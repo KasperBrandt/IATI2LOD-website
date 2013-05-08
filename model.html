@@ -3,16 +3,65 @@
 <html>
   <head>
     <title>IATI 2 LOD model</title>
-    <link rel="stylesheet" type="text/css" href="css/main.css"/>
+    <link rel="stylesheet" type="text/css" href="/css/main.css"/>
+    <link rel="shortcut icon" href="/images/iati.ico"/>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
   </head>
   <body>
-  	<h1>{{ model.0 }}</h1>
-  	<br><br>
-	{% for entry in activities %}
-		<ul>
-			<li><a href="/model?model={{ entry.1 }}">{{ entry.0 }}</a></li>
-		</ul>
-	{% endfor %}
+  	<div id="container">
+  		<div id="header"></div>
+  		<div id="main">
+  			<div id="logo">
+  				<a href="http://iatiregistry.org"><img src="/images/iati-logo.png"></a>
+  				<img src="/images/two-logo.png">
+  				<img src="/images/lod-logo.png">
+  			</div>
+  			
+  			<div id="nav">
+  				{{ nav }}
+  			</div>
+  			
+  			<div id="subnav">
+  				{{ subnav }}
+  			</div>
+  	
+  			<div id="content">
+				<h1>Model</h1>
+				
+				This model is based on the <a href="http://iatiregistry.org">IATI standard</a> and the open data published in this standard.<br><br>
+				
+				For setting up this model, we have followed two simple guidelines:
+				
+				<ol>
+					<li>Preserve as much original data as possible.</li>
+					<li>Avoid non-literal and blank nodes as much as possible.</li>
+				</ol>
+				
+				By preserving original data, we aim to fully convert the original IATI/XML files to RDF. Even nodes that are not specified<br>
+				according to the IATI standard will be taken into consideration during the conversion.<br>
+				For example, if a node with the tag 'activity-cost' (not in the IATI standard) exists in an IATI/XML file, this node will be converted<br>
+				with a iati:activity-cost predicate (iati: standing for the default IATI namespace).<br><br> 
+				
+				By avoiding non-literal and blank nodes, we mean to create as few triples as possible. This will allow for shorter queries.<br>
+				However, most elements of the standard forced us to create an extra URI for referencing purposes.<br>
+				For example, the 'transaction' node has a lot of information about a specific transaction and it is possible to specify multiple<br>
+				transactions. Therefore each transaction has its own URI which serves as a unique identifier for that transaction.<br><br>
+				
+				For a textual description of the model, see the <a href="/model/activities">activities</a>, <a href="/model/organisations">organisations</a>, <a href="/model/codelists">codelists</a> and  <a href="/model/provenance">provenance</a> pages.<br>
+				For a visual description of the model, see the <a href="/model/visualizations">visualization</a> part of this website.<br>
+				Examples of converted data can be found on the <a href="/model/examples">examples</a> page.<br><br>
+				
+				The triple store containing all data will be hosted by the Vrije Universiteit Amsterdam and can be found <a href="http://eculture.cs.vu.nl:1987/iati/lod/collections/iati/">here</a>.<br>
+				Unfortunately, the triple store is currently down.<br><br>
+				
+				If you have any comments, questions or tips, please let <a href="mailto:kasperbrandt87@gmail.com">us</a> know!
+				
+			</div>
+		</div>
+		<div id="footernote">
+			<a href="mailto:kasperbrandt87@gmail.com">Kasper Brandt</a> © 2013
+		</div>
+		<div id="footer"></div>
+	</div>
   </body>
 </html>

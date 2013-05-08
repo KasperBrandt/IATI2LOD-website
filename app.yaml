@@ -10,7 +10,23 @@ handlers:
   static_dir: images
 - url: /scripts
   static_dir: scripts
+- url: /examples
+  static_dir: examples
 - url: /model
   script: model.py
+- url: /examples
+  static_dir: examples
+- url: /model/visualizations
+  script: model-visualizations.py
+- url: /model/activities
+  script: model-activities.py
+- url: /model/organisations
+  script: model-organisations.py
+- url: /model/codelists
+  script: model-codelists.py
+- url: /model/provenance
+  script: model-provenance.py
+- url: /model/examples
+  script: model-examples.py
 - url: /.*
-  script: helloworld.py
+  script: main.py
