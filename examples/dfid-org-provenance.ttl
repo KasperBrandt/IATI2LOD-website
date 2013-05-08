@@ -1,0 +1,45 @@
+@prefix iati: <http://purl.org/collections/iati/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://purl.org/collections/iati/graph/organisation/dfid-org> a iati:graph ;
+    rdfs:label "dfid-org" ;
+    iati:extras-archive-file "no" ;
+    iati:extras-country <http://purl.org/collections/iati/codelist/Country/998> ;
+    iati:extras-data-updated "2011-02-09" ;
+    iati:extras-filetype "organisation" ;
+    iati:extras-language "en" ;
+    iati:extras-publisher-country <http://purl.org/collections/iati/codelist/Country/GB> ;
+    iati:extras-publisher-iati-id <http://purl.org/collections/iati/codelist/OrganisationIdentifier/GB-1> ;
+    iati:extras-publisher-organization-type <http://purl.org/collections/iati/codelist/OrganisationType/10> ;
+    iati:extras-publishertype "primary_source" ;
+    iati:extras-record-updated "2012-03-16" ;
+    iati:extras-verified "no" ;
+    iati:last-updated "2012-08-23T12:43:16Z" ;
+    iati:resources-format "IATI-XML" ;
+    iati:resources-hash "8585c2002a9a0cc245618e10ab38722f6882c5f5" ;
+    iati:resources-id "8e3eba4c-8234-4434-90a7-ce6fd75c6eab" ;
+    iati:resources-mimetype "text/xml" ;
+    iati:resources-package-id "c65e7f0c-3fbc-4451-8102-0181f1791878" ;
+    iati:resources-position 0 ;
+    iati:resources-resource-group-id "43b839ce-1ec1-4340-9fc8-169aa5495fc1" ;
+    iati:resources-size "37875" ;
+    iati:resources-url <http://projects.dfid.gov.uk/iatixmlfiles/organisation.xml> ;
+    iati:source-document-author <http://purl.org/collections/iati/graph/organisation/GB-1/author> ;
+    iati:source-document-ckan-url <http://iatiregistry.org/dataset/dfid-org> ;
+    iati:source-document-download-url <http://projects.dfid.gov.uk/iatixmlfiles/organisation.xml> ;
+    iati:source-document-group "dfid" ;
+    iati:source-document-id "c65e7f0c-3fbc-4451-8102-0181f1791878" ;
+    iati:source-document-isopen true ;
+    iati:source-document-license "OKD Compliant::UK Open Government Licence (OGL)" ;
+    iati:source-document-license-id "uk-ogl" ;
+    iati:source-document-metadata-created "2012-03-16T09:45:07.964178" ;
+    iati:source-document-metadata-modified "2012-10-10T23:38:11.405983" ;
+    iati:source-document-ratings-count 0 ;
+    iati:source-document-revision-id "0338464b-aae5-4481-9358-7a0273e2f075" ;
+    iati:source-document-state "active" ;
+    iati:source-document-title "DFID Organisation File" ;
+    iati:version "1.01" .
+
+<http://purl.org/collections/iati/graph/organisation/dfid-org/author> a iati:author ;
+    iati:author-email "enquiry@dfid.gov.uk" .
+

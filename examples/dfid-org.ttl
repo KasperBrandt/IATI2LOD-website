@@ -1,0 +1,1279 @@
+@prefix iati: <http://purl.org/collections/iati/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://purl.org/collections/iati/codelist/OrganisationIdentifier/GB-1> owl:sameAs <http://purl.org/collections/iati/organisation/GB-1> .
+
+<http://purl.org/collections/iati/organisation/GB-1> a iati:organisation ;
+    rdfs:label "Department for International Development"@en ;
+    iati:iati-identifier "GB-1" ;
+    iati:organisation-document-link <http://purl.org/collections/iati/organisation/GB-1/document-link1>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link10>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link11>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link12>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link13>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link14>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link15>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link16>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link17>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link18>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link19>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link2>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link20>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link21>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link22>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link23>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link24>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link25>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link26>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link27>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link28>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link29>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link3>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link30>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link31>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link4>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link5>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link6>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link7>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link8>,
+        <http://purl.org/collections/iati/organisation/GB-1/document-link9> ;
+    iati:organisation-recipient-country-budget <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget1>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget10>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget11>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget12>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget13>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget14>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget15>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget16>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget17>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget18>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget19>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget2>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget20>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget21>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget22>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget23>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget24>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget25>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget26>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget27>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget28>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget29>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget3>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget30>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget31>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget32>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget33>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget34>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget35>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget36>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget37>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget38>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget39>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget4>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget40>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget41>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget42>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget43>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget44>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget45>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget46>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget47>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget48>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget49>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget5>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget50>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget51>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget52>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget53>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget54>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget55>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget56>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget57>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget58>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget59>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget6>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget60>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget61>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget62>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget63>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget64>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget65>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget66>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget67>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget68>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget69>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget7>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget70>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget71>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget72>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget73>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget74>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget75>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget76>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget77>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget8>,
+        <http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget9> ;
+    iati:organisation-total-budget <http://purl.org/collections/iati/organisation/GB-1/total-budget1>,
+        <http://purl.org/collections/iati/organisation/GB-1/total-budget2>,
+        <http://purl.org/collections/iati/organisation/GB-1/total-budget3>,
+        <http://purl.org/collections/iati/organisation/GB-1/total-budget4>,
+        <http://purl.org/collections/iati/organisation/GB-1/total-budget5> ;
+    owl:sameAs <http://purl.org/collections/iati/codelist/OrganisationIdentifier/GB-1> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link1> a iati:document-link ;
+    rdfs:label "DFID Annual Report and Accounts 2011-12"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B01> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/departmental-report/2012/Annual-report-accounts-2011-12.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link10> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Ethiopia"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/ethiopia-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link11> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Ghana"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/ghana-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link12> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for India"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/india-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link13> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Iraq"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/iraq-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link14> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Occupied Palestinian Territories"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/occupied-palestinian-territories-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link15> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Kenya"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/kenya-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link16> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Malawi"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/malawi-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link17> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Mozambique"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/mozambique-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link18> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Nepal"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/nepal-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link19> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Nigeria"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/nigeria-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link2> a iati:document-link ;
+    rdfs:label "DFID Business Plan 2012-2015"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B02> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/DFIDbusiness-plan2012.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link20> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Pakistan"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/pakistan-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link21> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Rwanda"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/rwanda-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link22> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Sierra Leone"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/sierra-leone-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link23> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Liberia"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/liberia-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link24> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Somalia"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/somalia-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link25> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for South Sudan"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/south-sudan-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link26> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Sudan"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/sudan-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link27> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Tanzania"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/tanzania-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link28> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Uganda"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/uganda-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link29> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Vietnam"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/vietnam-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link3> a iati:document-link ;
+    rdfs:label "Statistics in International Development 2011"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B01> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/sid2011/SID-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link30> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Zambia"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/zambia-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link31> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Zimbabwe"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/zimbabwe-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link4> a iati:document-link ;
+    rdfs:label "Strengthened Approach to Budget Support"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B02> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/Strengthened-approach-budget-support-Tecnical-Note.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link5> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Afghanistan"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/afghanistan-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link6> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Bangladesh"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/Bangladesh-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link7> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Burma"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/burma-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link8> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Burundi"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/burundi-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/document-link9> a iati:document-link ;
+    rdfs:label "DFID Operational Plan for Democratic Republic of Congo"@en ;
+    iati:document-category <http://purl.org/collections/iati/codelist/DocumentCategory/B03> ;
+    iati:format <http://purl.org/collections/iati/codelist/FileFormat/application/pdf> ;
+    iati:url <http://www.dfid.gov.uk/Documents/publications1/op/drc-2011.pdf> .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget1> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/AF> ;
+    iati:recipient-country-name "Afghanistan"@en ;
+    iati:recipient-country-ref "AF" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "180445000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget10> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/BI> ;
+    iati:recipient-country-name "Burundi"@en ;
+    iati:recipient-country-ref "BI" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "10000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget11> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/KH> ;
+    iati:recipient-country-name "Cambodia"@en ;
+    iati:recipient-country-ref "KH" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "9492000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget12> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/KH> ;
+    iati:recipient-country-name "Cambodia"@en ;
+    iati:recipient-country-ref "KH" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "3500000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget13> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/CD> ;
+    iati:recipient-country-name "Congo, Democratic Republic"@en ;
+    iati:recipient-country-ref "CD" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "165000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget14> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/CD> ;
+    iati:recipient-country-name "Congo, Democratic Republic"@en ;
+    iati:recipient-country-ref "CD" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "220000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget15> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/CD> ;
+    iati:recipient-country-name "Congo, Democratic Republic"@en ;
+    iati:recipient-country-ref "CD" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "258000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget16> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/ET> ;
+    iati:recipient-country-name "Ethiopia"@en ;
+    iati:recipient-country-ref "ET" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "283037000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget17> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/ET> ;
+    iati:recipient-country-name "Ethiopia"@en ;
+    iati:recipient-country-ref "ET" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "345000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget18> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/ET> ;
+    iati:recipient-country-name "Ethiopia"@en ;
+    iati:recipient-country-ref "ET" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "390000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget19> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/GH> ;
+    iati:recipient-country-name "Ghana"@en ;
+    iati:recipient-country-ref "GH" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "87000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget2> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/AF> ;
+    iati:recipient-country-name "Afghanistan"@en ;
+    iati:recipient-country-ref "AF" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "178000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget20> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/GH> ;
+    iati:recipient-country-name "Ghana"@en ;
+    iati:recipient-country-ref "GH" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "100000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget21> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/GH> ;
+    iati:recipient-country-name "Ghana"@en ;
+    iati:recipient-country-ref "GH" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "100000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget22> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/IN> ;
+    iati:recipient-country-name "India"@en ;
+    iati:recipient-country-ref "IN" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "263700000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget23> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/IN> ;
+    iati:recipient-country-name "India"@en ;
+    iati:recipient-country-ref "IN" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "280000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget24> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/IN> ;
+    iati:recipient-country-name "India"@en ;
+    iati:recipient-country-ref "IN" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "280000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget25> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/PS> ;
+    iati:recipient-country-name "Occupied Palestinian Territories"@en ;
+    iati:recipient-country-ref "PS" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "85699000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget26> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/PS> ;
+    iati:recipient-country-name "Occupied Palestinian Territories"@en ;
+    iati:recipient-country-ref "PS" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "89498000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget27> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/PS> ;
+    iati:recipient-country-name "Occupied Palestinian Territories"@en ;
+    iati:recipient-country-ref "PS" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "88368000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget28> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/KE> ;
+    iati:recipient-country-name "Kenya"@en ;
+    iati:recipient-country-ref "KE" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "110000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget29> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/KE> ;
+    iati:recipient-country-name "Kenya"@en ;
+    iati:recipient-country-ref "KE" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "150000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget3> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/AF> ;
+    iati:recipient-country-name "Afghanistan"@en ;
+    iati:recipient-country-ref "AF" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "178000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget30> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/KE> ;
+    iati:recipient-country-name "Kenya"@en ;
+    iati:recipient-country-ref "KE" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "150000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget31> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/MW> ;
+    iati:recipient-country-name "Malawi"@en ;
+    iati:recipient-country-ref "MW" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "87100000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget32> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/MW> ;
+    iati:recipient-country-name "Malawi"@en ;
+    iati:recipient-country-ref "MW" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "95000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget33> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/MW> ;
+    iati:recipient-country-name "Malawi"@en ;
+    iati:recipient-country-ref "MW" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "98000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget34> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/MZ> ;
+    iati:recipient-country-name "Mozambique"@en ;
+    iati:recipient-country-ref "MZ" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "77000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget35> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/MZ> ;
+    iati:recipient-country-name "Mozambique"@en ;
+    iati:recipient-country-ref "MZ" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "85000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget36> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/MZ> ;
+    iati:recipient-country-name "Mozambique"@en ;
+    iati:recipient-country-ref "MZ" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "85000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget37> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/NP> ;
+    iati:recipient-country-name "Nepal"@en ;
+    iati:recipient-country-ref "NP" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "62268000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget38> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/NP> ;
+    iati:recipient-country-name "Nepal"@en ;
+    iati:recipient-country-ref "NP" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "103250000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget39> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/NP> ;
+    iati:recipient-country-name "Nepal"@en ;
+    iati:recipient-country-ref "NP" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "103400000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget4> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/BD> ;
+    iati:recipient-country-name "Bangladesh"@en ;
+    iati:recipient-country-ref "BD" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "210000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget40> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/NG> ;
+    iati:recipient-country-name "Nigeria"@en ;
+    iati:recipient-country-ref "NG" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "185000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget41> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/NG> ;
+    iati:recipient-country-name "Nigeria"@en ;
+    iati:recipient-country-ref "NG" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "305000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget42> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/NG> ;
+    iati:recipient-country-name "Nigeria"@en ;
+    iati:recipient-country-ref "NG" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "305000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget43> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/PK> ;
+    iati:recipient-country-name "Pakistan"@en ;
+    iati:recipient-country-ref "PK" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "266620000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget44> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/PK> ;
+    iati:recipient-country-name "Pakistan"@en ;
+    iati:recipient-country-ref "PK" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "412000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget45> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/PK> ;
+    iati:recipient-country-name "Pakistan"@en ;
+    iati:recipient-country-ref "PK" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "446000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget46> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/RW> ;
+    iati:recipient-country-name "Rwanda"@en ;
+    iati:recipient-country-ref "RW" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "75000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget47> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/RW> ;
+    iati:recipient-country-name "Rwanda"@en ;
+    iati:recipient-country-ref "RW" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "97595000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget48> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/RW> ;
+    iati:recipient-country-name "Rwanda"@en ;
+    iati:recipient-country-ref "RW" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "96725000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget49> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/SL> ;
+    iati:recipient-country-name "Sierra Leone"@en ;
+    iati:recipient-country-ref "SL" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "58000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget5> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/BD> ;
+    iati:recipient-country-name "Bangladesh"@en ;
+    iati:recipient-country-ref "BD" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "290000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget50> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/SL> ;
+    iati:recipient-country-name "Sierra Leone"@en ;
+    iati:recipient-country-ref "SL" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "77000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget51> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/SL> ;
+    iati:recipient-country-name "Sierra Leone"@en ;
+    iati:recipient-country-ref "SL" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "77000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget52> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/LR> ;
+    iati:recipient-country-name "Liberia"@en ;
+    iati:recipient-country-ref "LR" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "8000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget53> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/LR> ;
+    iati:recipient-country-name "Liberia"@en ;
+    iati:recipient-country-ref "LR" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "8000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget54> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/SO> ;
+    iati:recipient-country-name "Somali Republic"@en ;
+    iati:recipient-country-ref "SO" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "63000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget55> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/SO> ;
+    iati:recipient-country-name "Somali Republic"@en ;
+    iati:recipient-country-ref "SO" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "80000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget56> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/SO> ;
+    iati:recipient-country-name "Somali Republic"@en ;
+    iati:recipient-country-ref "SO" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "80000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget57> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/SS> ;
+    iati:recipient-country-name "South Sudan"@en ;
+    iati:recipient-country-ref "SS" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "86000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget58> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/SS> ;
+    iati:recipient-country-name "South Sudan"@en ;
+    iati:recipient-country-ref "SS" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "96000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget59> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/SS> ;
+    iati:recipient-country-name "South Sudan"@en ;
+    iati:recipient-country-ref "SS" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "99000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget6> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/BD> ;
+    iati:recipient-country-name "Bangladesh"@en ;
+    iati:recipient-country-ref "BD" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "300000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget60> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/SD> ;
+    iati:recipient-country-name "Sudan"@en ;
+    iati:recipient-country-ref "SD" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "71336000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget61> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/SD> ;
+    iati:recipient-country-name "Sudan"@en ;
+    iati:recipient-country-ref "SD" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "44000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget62> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/SD> ;
+    iati:recipient-country-name "Sudan"@en ;
+    iati:recipient-country-ref "SD" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "41000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget63> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/TZ> ;
+    iati:recipient-country-name "Tanzania"@en ;
+    iati:recipient-country-ref "TZ" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "157000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget64> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/TZ> ;
+    iati:recipient-country-name "Tanzania"@en ;
+    iati:recipient-country-ref "TZ" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "180000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget65> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/TZ> ;
+    iati:recipient-country-name "Tanzania"@en ;
+    iati:recipient-country-ref "TZ" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "183000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget66> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/UG> ;
+    iati:recipient-country-name "Uganda"@en ;
+    iati:recipient-country-ref "UG" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "95479000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget67> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/UG> ;
+    iati:recipient-country-name "Uganda"@en ;
+    iati:recipient-country-ref "UG" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "95000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget68> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/UG> ;
+    iati:recipient-country-name "Uganda"@en ;
+    iati:recipient-country-ref "UG" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "90000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget69> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/VN> ;
+    iati:recipient-country-name "Vietnam"@en ;
+    iati:recipient-country-ref "VN" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "15008000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget7> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/MM> ;
+    iati:recipient-country-name "Burma"@en ;
+    iati:recipient-country-ref "MM" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "36000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget70> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/VN> ;
+    iati:recipient-country-name "Vietnam"@en ;
+    iati:recipient-country-ref "VN" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "12999000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget71> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/VN> ;
+    iati:recipient-country-name "Vietnam"@en ;
+    iati:recipient-country-ref "VN" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "7000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget72> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/ZM> ;
+    iati:recipient-country-name "Zambia"@en ;
+    iati:recipient-country-ref "ZM" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "55308000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget73> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/ZM> ;
+    iati:recipient-country-name "Zambia"@en ;
+    iati:recipient-country-ref "ZM" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "62000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget74> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/ZM> ;
+    iati:recipient-country-name "Zambia"@en ;
+    iati:recipient-country-ref "ZM" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "63000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget75> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "End of Financial Year 2012/13"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/ZW> ;
+    iati:recipient-country-name "Zimbabwe"@en ;
+    iati:recipient-country-ref "ZW" ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "Start of Financial Year 2012/13"@en ;
+    iati:value "82900000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2012-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget76> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/ZW> ;
+    iati:recipient-country-name "Zimbabwe"@en ;
+    iati:recipient-country-ref "ZW" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "99000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget77> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/ZW> ;
+    iati:recipient-country-name "Zimbabwe"@en ;
+    iati:recipient-country-ref "ZW" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "94000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget8> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "End of Financial Year 2013/14"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/MM> ;
+    iati:recipient-country-name "Burma"@en ;
+    iati:recipient-country-ref "MM" ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "Start of Financial Year 2013/14"@en ;
+    iati:value "55000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2013-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/recipient-country-budget9> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "End of Financial Year 2014/15"@en ;
+    iati:recipient-country <http://purl.org/collections/iati/codelist/Country/MM> ;
+    iati:recipient-country-name "Burma"@en ;
+    iati:recipient-country-ref "MM" ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "Start of Financial Year 2014/15"@en ;
+    iati:value "58000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2014-04-01" .
+
+<http://purl.org/collections/iati/organisation/GB-1/total-budget1> a iati:budget ;
+    iati:end-date "2011-03-31" ;
+    iati:end-date-text "31 March 2011"@en ;
+    iati:start-date "2010-04-01" ;
+    iati:start-date-text "01 April 2010"@en ;
+    iati:value "7800000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2010-10-20" .
+
+<http://purl.org/collections/iati/organisation/GB-1/total-budget2> a iati:budget ;
+    iati:end-date "2012-03-31" ;
+    iati:end-date-text "31 March 2012"@en ;
+    iati:start-date "2011-04-01" ;
+    iati:start-date-text "01 April 2011"@en ;
+    iati:value "8100000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2010-10-20" .
+
+<http://purl.org/collections/iati/organisation/GB-1/total-budget3> a iati:budget ;
+    iati:end-date "2013-03-31" ;
+    iati:end-date-text "31 March 2013"@en ;
+    iati:start-date "2012-04-01" ;
+    iati:start-date-text "01 April 2012"@en ;
+    iati:value "8800000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2010-10-20" .
+
+<http://purl.org/collections/iati/organisation/GB-1/total-budget4> a iati:budget ;
+    iati:end-date "2014-03-31" ;
+    iati:end-date-text "31 March 2014"@en ;
+    iati:start-date "2013-04-01" ;
+    iati:start-date-text "01 April 2013"@en ;
+    iati:value "11300000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2010-10-20" .
+
+<http://purl.org/collections/iati/organisation/GB-1/total-budget5> a iati:budget ;
+    iati:end-date "2015-03-31" ;
+    iati:end-date-text "31 March 2015"@en ;
+    iati:start-date "2014-04-01" ;
+    iati:start-date-text "01 April 2014"@en ;
+    iati:value "11500000000" ;
+    iati:value-currency <http://purl.org/collections/iati/codelist/Currency/GBP> ;
+    iati:value-date "2010-10-20" .
+

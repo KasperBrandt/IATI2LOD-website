@@ -1,0 +1,7 @@
+@prefix iati: <http://purl.org/collections/iati/> .
+
+<http://purl.org/collections/iati/graph/codelist/AidType> iati:last-updated "2012-03-02T16:37:03.457Z" ;
+    iati:source-document-download-url <http://datadev.aidinfolabs.org/data/codelist/AidType.xml> ;
+    iati:source-document-id "AidType" ;
+    iati:version "1.0" .
+

@@ -1,0 +1,180 @@
+@prefix AidType: <http://purl.org/collections/iati/codelist/AidType/> .
+@prefix codelist: <http://purl.org/collections/iati/codelist/> .
+@prefix iati: <http://purl.org/collections/iati/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://purl.org/collections/iati/codelist/category/C> a iati:codelist-category ;
+    rdfs:label "Project-type interventions"@en ;
+    iati:code "C" ;
+    iati:has-member AidType:C01 ;
+    rdfs:comment "N.B. Within this category, members able to do so are requested to report the aggregate amount used for financing donor experts/consultants on Table DAC1. Where the activity consists solely of experts' costs, report under category D."@en .
+
+<http://purl.org/collections/iati/codelist/category/F> a iati:codelist-category ;
+    rdfs:label "Debt relief"@en ;
+    iati:code "F" ;
+    iati:has-member AidType:F01 .
+
+<http://purl.org/collections/iati/codelist/category/G> a iati:codelist-category ;
+    rdfs:label "Administrative costs not included elsewhere"@en ;
+    iati:code "G" ;
+    iati:has-member AidType:G01 .
+
+AidType:A01 a iati:codelist-code ;
+    rdfs:label "General budget support"@en ;
+    iati:code "A01" ;
+    iati:in-category <http://purl.org/collections/iati/codelist/category/A> ;
+    iati:member-of-codelist codelist:AidType ;
+    rdfs:comment "Unearmarked contributions to the government budget including funding to support the implementation of macroeconomic reforms (structural adjustment programmes, poverty reduction strategies). Budget support is a method of financing a recipient country's budget through a transfer of resources from an external financing agency to the recipient government's national treasury. The funds thus transferred are managed in accordance with the recipient's budgetary procedures. Funds transferred to the national treasury for financing programmes or projects managed according to different budgetary procedures from those of the recipient country, with the intention of earmarking the resources for specific uses, are therefore excluded."@en .
+
+AidType:A02 a iati:codelist-code ;
+    rdfs:label "Sector budget support"@en ;
+    iati:code "A02" ;
+    iati:in-category <http://purl.org/collections/iati/codelist/category/A> ;
+    iati:member-of-codelist codelist:AidType ;
+    rdfs:comment "Sector budget support, like general budget support, is a financial contribution to a recipient government\\'s budget. However, in sector budget support, the dialogue between donors and partner governments focuses on sector-specific concerns, rather than on overall policy and budget priorities"@en .
+
+AidType:B01 a iati:codelist-code ;
+    rdfs:label "Core support to NGOs, other private bodies, PPPs and research institutes"@en ;
+    iati:code "B01" ;
+    iati:in-category <http://purl.org/collections/iati/codelist/category/B> ;
+    iati:member-of-codelist codelist:AidType ;
+    rdfs:comment "Funds are paid over to NGOs (local, national and international) for use at the latter's discretion, and contribute to programmes and activities which NGOs have developed themselves, and which they implement on their own authority and responsibility. Core contributions to PPPs, funds paid over to foundations (e.g. philanthropic foundations), and contributions to research institutes (public and private) are also recorded here. Annex 2 of the DAC Directives provides a list of INGOs, PPPs and networks core contributions to which may be reported under B01. This list is not exclusive."@en .
+
+AidType:B02 a iati:codelist-code ;
+    rdfs:label "Core contributions to multilateral institutions"@en ;
+    iati:code "B02" ;
+    iati:in-category <http://purl.org/collections/iati/codelist/category/B> ;
+    iati:member-of-codelist codelist:AidType ;
+    rdfs:comment "These funds are classified as multilateral ODA (all other categories fall under bilateral ODA). The recipient multilateral institution pools contributions so that they lose their identity and become an integral part of its financial assets. See Annex 2 of the DAC Directives for a comprehensive list of agencies core contributions to which may be reported under B02 (Section I. Multilateral institutions)."@en .
+
+AidType:B03 a iati:codelist-code ;
+    rdfs:label "Contributions to specific-purpose programmes and funds managed by international organisations (multilateral, INGO)"@en ;
+    iati:code "B03" ;
+    iati:in-category <http://purl.org/collections/iati/codelist/category/B> ;
+    iati:member-of-codelist codelist:AidType ;
+    rdfs:comment "In addition to their core-funded operations, international organisations set up and raise funds for specific programmes and funds with clearly identified sectoral, thematic or geographical focus. Donors' bilateral contributions to such programmes and funds are recorded here, e.g. \"UNICEF girls' education\", \"Education For All Fast Track Initiative\", various trust funds, including for reconstruction (e.g. Afghanistan Reconstruction Trust Fund)."@en .
+
+AidType:B04 a iati:codelist-code ;
+    rdfs:label "Basket funds/pooled funding"@en ;
+    iati:code "B04" ;
+    iati:in-category <http://purl.org/collections/iati/codelist/category/B> ;
+    iati:member-of-codelist codelist:AidType ;
+    rdfs:comment "The donor contributes funds to an autonomous account, managed jointly with other donors and/or the recipient. The account will have specific purposes, modes of disbursement and accountability mechanisms, and a limited time frame. Basket funds are characterised by common project documents, common funding contracts and common reporting/audit procedures with all donors. Donors' contributions to funds managed autonomously by international organisations are recorded under B03."@en .
+
+AidType:C01 a iati:codelist-code ;
+    rdfs:label "Project-type interventions"@en ;
+    iati:code "C01" ;
+    iati:in-category <http://purl.org/collections/iati/codelist/category/C> ;
+    iati:member-of-codelist codelist:AidType ;
+    rdfs:comment "A project is a set of inputs, activities and outputs, agreed with the partner country*, to reach specific objectives/outcomes within a defined time frame, with a defined budget and a defined geographical area. Projects can vary significantly in terms of objectives, complexity, amounts involved and duration. There are smaller projects that might involve modest financial resources and last only a few months, whereas large projects might involve more significant amounts, entail successive phases and last for many years. A large project with a number of different components is sometimes referred to as a programme, but should nevertheless be recorded here. Feasibility studies, appraisals and evaluations are included (whether designed as part of projects/programmes or dedicated funding arrangements). Aid channelled through NGOs or multilaterals is also recorded here. This includes payments for NGOs and multilaterals to implement donors' projects and programmes, and funding of specified NGOs projects. By contrast, core funding of NGOs and multilaterals as well as contributions to specific- purpose funds managed by international organisations are recorded under B. * In the cases of equity investments, humanitarian aid or aid channelled through NGOs, projects are recorded here even if there was no direct agreement between the donor and the partner country."@en .
+
+AidType:D01 a iati:codelist-code ;
+    rdfs:label "Donor country personnel"@en ;
+    iati:code "D01" ;
+    iati:in-category <http://purl.org/collections/iati/codelist/category/D> ;
+    iati:member-of-codelist codelist:AidType ;
+    rdfs:comment "Experts, consultants, teachers, academics, researchers, volunteers and contributions to public and private bodies for sending experts to developing countries."@en .
+
+AidType:D02 a iati:codelist-code ;
+    rdfs:label "Other technical assistance"@en ;
+    iati:code "D02" ;
+    iati:in-category <http://purl.org/collections/iati/codelist/category/D> ;
+    iati:member-of-codelist codelist:AidType ;
+    rdfs:comment "Provision, outside projects as described in category C01, of technical assistance in recipient countries (excluding technical assistance performed by donor experts reported under D01, and scholarships/training in donor country reported under E01). This includes training and research; language training; south-south studies; research studies; collaborative research between donor and recipient universities and organisations); local scholarships; development-oriented social and cultural programmes. This category also covers ad hoc contributions such as conferences, seminars and workshops, exchange visits, publications, etc."@en .
+
+AidType:E01 a iati:codelist-code ;
+    rdfs:label "Scholarships/training in donor country"@en ;
+    iati:code "E01" ;
+    iati:in-category <http://purl.org/collections/iati/codelist/category/E> ;
+    iati:member-of-codelist codelist:AidType ;
+    rdfs:comment "Financial aid awards for individual students and contributions to trainees."@en .
+
+AidType:E02 a iati:codelist-code ;
+    rdfs:label "Imputed student costs"@en ;
+    iati:code "E02" ;
+    iati:in-category <http://purl.org/collections/iati/codelist/category/E> ;
+    iati:member-of-codelist codelist:AidType ;
+    rdfs:comment "Indirect (\"imputed\") costs of tuition in donor countries."@en .
+
+AidType:F01 a iati:codelist-code ;
+    rdfs:label "Debt relief"@en ;
+    iati:code "F01" ;
+    iati:in-category <http://purl.org/collections/iati/codelist/category/F> ;
+    iati:member-of-codelist codelist:AidType ;
+    rdfs:comment "Groups all actions relating to debt (forgiveness, conversions, swaps, buy-backs, rescheduling, refinancing)."@en .
+
+AidType:G01 a iati:codelist-code ;
+    rdfs:label "Administrative costs not included elsewhere"@en ;
+    iati:code "G01" ;
+    iati:in-category <http://purl.org/collections/iati/codelist/category/G> ;
+    iati:member-of-codelist codelist:AidType ;
+    rdfs:comment "Administrative costs of development assistance programmes not already included under other ODA items as an integral part of the costs of delivering or implementing the aid provided. This category covers situation analyses and auditing activities. As regards the salaries component of administrative costs, it relates to in-house agency staff and contractors only; costs associated with donor experts/consultants are to be reported under category C or D01."@en .
+
+AidType:H01 a iati:codelist-code ;
+    rdfs:label "Development awareness"@en ;
+    iati:code "H01" ;
+    iati:in-category <http://purl.org/collections/iati/codelist/category/H> ;
+    iati:member-of-codelist codelist:AidType ;
+    rdfs:comment "Funding of activities designed to increase public support, i.e. awareness in the donor country of development co-operation efforts, needs and issues."@en .
+
+AidType:H02 a iati:codelist-code ;
+    rdfs:label "Refugees in donor countries"@en ;
+    iati:code "H02" ;
+    iati:in-category <http://purl.org/collections/iati/codelist/category/H> ;
+    iati:member-of-codelist codelist:AidType ;
+    rdfs:comment "Official sector expenditures for the sustenance of refugees in donor countries during the first twelve months of their stay."@en .
+
+<http://purl.org/collections/iati/codelist/category/A> a iati:codelist-category ;
+    rdfs:label "Budget support"@en ;
+    iati:code "A" ;
+    iati:has-member AidType:A01,
+        AidType:A02 ;
+    rdfs:comment "For contributions under this category, the donor relinquishes the exclusive control of its funds by sharing the responsibility with the recipient."@en .
+
+<http://purl.org/collections/iati/codelist/category/D> a iati:codelist-category ;
+    rdfs:label "Experts and other technical assistance"@en ;
+    iati:code "D" ;
+    iati:has-member AidType:D01,
+        AidType:D02 ;
+    rdfs:comment "This category covers the provision, outside projects as described in category C, of know- how in the form of personnel, training and research."@en .
+
+<http://purl.org/collections/iati/codelist/category/E> a iati:codelist-category ;
+    rdfs:label "Scholarships and student costs in donor countries"@en ;
+    iati:code "E" ;
+    iati:has-member AidType:E01,
+        AidType:E02 .
+
+<http://purl.org/collections/iati/codelist/category/H> a iati:codelist-category ;
+    rdfs:label "Other in-donor expenditures"@en ;
+    iati:code "H" ;
+    iati:has-member AidType:H01,
+        AidType:H02 ;
+    rdfs:comment "Groups a number of contributions that do not give rise to a cross-border flow."@en .
+
+<http://purl.org/collections/iati/codelist/category/B> a iati:codelist-category ;
+    rdfs:label "Core contributions and pooled programmes and funds"@en ;
+    iati:code "B" ;
+    iati:has-member AidType:B01,
+        AidType:B02,
+        AidType:B03,
+        AidType:B04 ;
+    rdfs:comment "For contributions under this category, the donor relinquishes the exclusive control of its funds by sharing the responsibility with other stakeholders (other donors, NGOs, multilateral institutions, Public Private Partnerships). The category covers both core contributions (B01 and B02), and pooled contributions with a specific earmarking (B03 and B04)."@en .
+
+codelist:AidType a iati:codelist ;
+    rdfs:label "AidType"@en ;
+    iati:codelist-member AidType:A01,
+        AidType:A02,
+        AidType:B01,
+        AidType:B02,
+        AidType:B03,
+        AidType:B04,
+        AidType:C01,
+        AidType:D01,
+        AidType:D02,
+        AidType:E01,
+        AidType:E02,
+        AidType:F01,
+        AidType:G01,
+        AidType:H01,
+        AidType:H02 .
+

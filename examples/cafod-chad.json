@@ -1,0 +1,62 @@
+{
+    "author": null,
+    "author_email": "cafod@cafod.org.uk",
+    "ckan_url": "http://iatiregistry.org/dataset/cafod-chad",
+    "download_url": "http://www.cafod.org.uk/extra/data/iati/IATIFile_Chad.xml",
+    "extras": {
+        "activity_count": "1",
+        "country": "TD",
+        "data_updated": "2013-01-23",
+        "filetype": "activity",
+        "language": "en",
+        "publisher_country": "GB",
+        "publisher_iati_id": "GB-CC-285776",
+        "publisher_organization_type": "21",
+        "publishertype": "primary_source"
+    },
+    "groups": [
+        "cafod"
+    ],
+    "id": "6e22f1bf-f10b-4ab4-8005-8a20de35f079",
+    "isopen": true,
+    "license": "OKD Compliant::Creative Commons Attribution",
+    "license_id": "cc-by",
+    "maintainer": null,
+    "maintainer_email": null,
+    "metadata_created": "2013-04-09T14:58:20.460413",
+    "metadata_modified": "2013-04-09T23:32:53.224926",
+    "name": "cafod-chad",
+    "notes": null,
+    "notes_rendered": "",
+    "ratings_average": null,
+    "ratings_count": 0,
+    "relationships": [],
+    "resources": [
+        {
+            "cache_last_updated": null,
+            "cache_url": null,
+            "description": "",
+            "format": "IATI-XML",
+            "hash": "d39280b9231a676316a70685712b8693be5ed087",
+            "id": "c6d8f19d-448f-4154-921a-0bdc58da6adf",
+            "last_modified": null,
+            "mimetype": "application/xml",
+            "mimetype_inner": null,
+            "name": null,
+            "package_id": "6e22f1bf-f10b-4ab4-8005-8a20de35f079",
+            "position": 0,
+            "resource_group_id": "79593c5f-04be-4dc3-9df9-14a962920818",
+            "resource_type": null,
+            "size": "4943",
+            "url": "http://www.cafod.org.uk/extra/data/iati/IATIFile_Chad.xml",
+            "webstore_last_updated": null,
+            "webstore_url": null
+        }
+    ],
+    "revision_id": "14c11164-fa13-4004-8e0c-3ce8732b90dd",
+    "state": "active",
+    "tags": [],
+    "title": "CAFOD Activity File for Chad",
+    "url": null,
+    "version": null
+}

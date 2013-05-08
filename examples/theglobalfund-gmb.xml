@@ -1,0 +1,3215 @@
+<?xml version="1.0" encoding="UTF-8"?><iati-activities version="1.01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xmlns:xsd="http://www.w3.org/2001/XMLSchema" generated-datetime="2013-04-22T09:35:34.107Z">
+<iati-activity default-currency="USD" last-updated-datetime="2012-03-07" xml:lang="en" hierarchy="1">
+<reporting-org ref="47045" type="40">The Global Fund to Fight AIDS, Tuberculosis and Malaria</reporting-org>
+<iati-identifier>47045-GMB-304-G01-H</iati-identifier>
+<title xml:lang="en">The Gambia Programme to Provide the Highest Standard of Available Treatement, Care and Support to People Living with and/or Affected by HIV/AIDS, which is Accessible and Affordable in order to Live in Dignity and Maintain a Positive and Productive Li</title>
+<description type="1">HIV and AIDS have emerged as major potential threats to the development of the Gambia.  The program supported by this grant aims to provide the highest standard of available treatment, care and support to people living with HIV and AIDS, which is accessible and affordable so that they can live in dignity and maintain a positive and productive life free from discrimination and stigma.  The program also targets health care providers, women, home-based care volunteers, AIDS orphans and their caregivers; children affected by AIDS and community volunteers.  The program is using grant funds to establish voluntary counseling and testing centers; provide comprehensive care for mothers living with HIV and their children; and train health professionals and community-based agents in voluntary counseling and testing, prevention of mother-to-child transmission of HIV and antiretroviral therapy.</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2004-10-01" />
+<contact-info>
+<organization>The Global Fund to Fight AIDS, Tuberculosis and Malaria</organization>
+<person-name>Dominique, Johnson</person-name>
+<email>Dominique.Johnson@theglobalfund.org</email>
+</contact-info>
+<participating-org role="Funding" ref="47045" xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</participating-org>
+<participating-org role="Implementing" type="Government" xml:lang="en">National AIDS Secretariat of Gambia</participating-org>
+<recipient-country code="GM">Gambia</recipient-country>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<budget type="Original">
+<period-end iso-date="2009-09-30" />
+<value currency="USD">440745</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2009-06-30" />
+<value currency="USD">1013969</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2009-03-31" />
+<value currency="USD">575048</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2008-12-31" />
+<value currency="USD">445424</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2008-09-30" />
+<value currency="USD">457785</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2008-06-30" />
+<value currency="USD">1300293</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2008-03-31" />
+<value currency="USD">515585</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2007-12-31" />
+<value currency="USD">579018</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2007-09-30" />
+<value currency="USD">430316</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2007-06-30" />
+<value currency="USD">1394509</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2007-03-31" />
+<value currency="USD">647668</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2006-12-31" />
+<value currency="USD">526576</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2006-09-30" />
+<value currency="USD">401835</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2006-06-30" />
+<value currency="USD">512106</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2006-03-31" />
+<value currency="USD">1171155</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2005-12-31" />
+<value currency="USD">493283</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2005-09-30" />
+<value currency="USD">409213</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2005-06-30" />
+<value currency="USD">498461</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2005-03-31" />
+<value currency="USD">2150783</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2004-12-31" />
+<value currency="USD">604906</value>
+</budget>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="2004-10-01" currency="USD">14563907</value>
+<transaction-date iso-date="2004-10-01" />
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-11-25" currency="USD">149822</value>
+<transaction-date iso-date="2009-11-25" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-08-05" currency="USD">274166</value>
+<transaction-date iso-date="2009-08-05" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-05-14" currency="USD">742690</value>
+<transaction-date iso-date="2009-05-14" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-01-21" currency="USD">721363</value>
+<transaction-date iso-date="2009-01-21" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-11-27" currency="USD">755962</value>
+<transaction-date iso-date="2008-11-27" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-06-30" currency="USD">688977</value>
+<transaction-date iso-date="2008-06-30" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-04-07" currency="USD">1200861</value>
+<transaction-date iso-date="2008-04-07" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-12-20" currency="USD">1334117</value>
+<transaction-date iso-date="2007-12-20" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-07-06" currency="USD">1333501</value>
+<transaction-date iso-date="2007-07-06" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-11-16" currency="USD">1174244</value>
+<transaction-date iso-date="2006-11-16" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-08-16" currency="USD">318133</value>
+<transaction-date iso-date="2006-08-16" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-03-30" currency="USD">721118</value>
+<transaction-date iso-date="2006-03-30" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2005-12-23" currency="USD">1443555</value>
+<transaction-date iso-date="2005-12-23" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2005-10-27" currency="USD">451248</value>
+<transaction-date iso-date="2005-10-27" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2005-04-04" currency="USD">1986999</value>
+<transaction-date iso-date="2005-04-04" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2004-10-04" currency="USD">1267151</value>
+<transaction-date iso-date="2004-10-04" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-R03-HA_Proposal_0_en">
+<language>en</language>
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Original Proposal</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_GA_0_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Program grant agreement</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_GA_1_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Program grant agreement v.1</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_IL_1_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Implementation Letter v.1</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_IL_2_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Implementation Letter v.2</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_IL_3_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Implementation Letter v.3</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_GPR_0_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Performance Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_GSC_0_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Score Card</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_DR_2_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 2</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_DR_3_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 3</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_DR_4_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 4</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_DR_5_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 5</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_DR_6_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 6</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_DR_7_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 7</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_DR_8_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 8</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_DR_9_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 9</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_DR_10_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 10</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_DR_11_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 11</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_DR_12_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 12</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_DR_13_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 13</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_DR_14_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 14</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G01-H_DR_15_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 15</title>
+</document-link>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of chronically ill adults whose households receive free basic external support. (In Att.2, it becomes: Number of chronically ill client provided with home based care)</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="1,500" />
+<actual value="2,391" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of health care providers trained in provision of ART</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="413" />
+<actual value="356" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of Health facilities capable of providing advanced interventions for prevention and medical treatment for PLWHAs</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="9" />
+<actual value="9" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of health facilities offering PMTCT</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="30" />
+<actual value="23" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of health facilities offering VCT services</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="30" />
+<actual value="34" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of health professionals trained in Management &amp; IT</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="200" />
+<actual value="170" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of health professionals trained in management of HIV related opportunistic infections</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="440" />
+<actual value="363" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of Health Workers trained in PMTCT</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="790" />
+<actual value="627" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of Health Workers trained in VCT</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="710" />
+<actual value="687" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of HIV-1 infected pregnant women receiving complete course of ARV prophylaxis (Nevirapine) to reduce the risk of PMTCT</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="559" />
+<actual value="885" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of NGOs/private clinics providing HIV/AIDS services</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="23" />
+<actual value="22" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of orphans and vulnerable children whose household receive free basic external support </title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="3,000" />
+<actual value="2,866" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of people on treatment and or prophylaxis for opportunistic infections</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="17,737" />
+<actual value="24,232" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of people receiving VCT services</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="100,000" />
+<actual value="66,464" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of people with advanced HIV infection receiving ART</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="1,500" />
+<actual value="921" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of PLWHA screened for TB</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="3,056" />
+<actual value="4,678" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of pregnant women completing the counseling and testing process for PMTCT</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="33,863" />
+<actual value="70,945" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of treatment centers offering ART with appropriate laboratory facilities providing all essential tests for ART (In Att2, it becomes: Health facilities capable of providing advanced interventions for prevention and medical treatment for HIV infected persons)</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="9" />
+<actual value="9" />
+</period>
+</indicator>
+</result>
+<activity-website>http://portfolio.theglobalfund.org/en/Grant/Index/GMB-304-G01-H</activity-website>
+</iati-activity>
+<iati-activity default-currency="USD" last-updated-datetime="2010-04-23" xml:lang="en" hierarchy="1">
+<reporting-org ref="47045" type="40">The Global Fund to Fight AIDS, Tuberculosis and Malaria</reporting-org>
+<iati-identifier>47045-GMB-304-G02-M</iati-identifier>
+<title xml:lang="en">Scaling up Prevention and Treatment of Malaria in the Coastal Region of The Gambia</title>
+<description type="1">In the Gambia, malaria is holo- to meso-endemic with highly seasonal variation.  The program supported by this grant targets populations in the coastal area of the Gambia, pregnant women and children under age five.  It aims to reduce malaria-related illness and death in children under age five and pregnant women by ten percent in the coastal area by providing improved case management of malaria, ensuring that access to prompt and effective treatment is received by the population; increase the use of the intermittent presumptive treatment among pregnant women; and provide prevention in the form of insecticide-treated bed nets.</description>
+<activity-status code="3">Completion</activity-status>
+<activity-date type="start-actual" iso-date="2004-10-01" />
+<activity-date type="end-planned" iso-date="2010-04-30" />
+<contact-info>
+<organization>The Global Fund to Fight AIDS, Tuberculosis and Malaria</organization>
+<person-name>Dominique, Johnson</person-name>
+<email>Dominique.Johnson@theglobalfund.org</email>
+</contact-info>
+<participating-org role="Funding" ref="47045" xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</participating-org>
+<participating-org role="Implementing" type="Government" xml:lang="en">Ministry of Health and Social Welfare of Gambia</participating-org>
+<recipient-country code="GM">Gambia</recipient-country>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<budget type="Original">
+<period-end iso-date="2009-12-31" />
+<value currency="USD">672795</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2009-09-30" />
+<value currency="USD">188883</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2009-06-30" />
+<value currency="USD">1532138</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2009-03-31" />
+<value currency="USD">232648</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2008-12-31" />
+<value currency="USD">535230</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2008-09-30" />
+<value currency="USD">245358</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2008-06-30" />
+<value currency="USD">1731006</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2008-03-31" />
+<value currency="USD">383098</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2007-12-31" />
+<value currency="USD">743691</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2007-09-30" />
+<value currency="USD">207808</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2007-06-30" />
+<value currency="USD">1429437</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2007-03-31" />
+<value currency="USD">291648</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2006-12-31" />
+<value currency="USD">675417</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2006-09-30" />
+<value currency="USD">575519</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2006-06-30" />
+<value currency="USD">575519</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2006-03-31" />
+<value currency="USD">575519</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2005-12-31" />
+<value currency="USD">575519</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2005-09-30" />
+<value currency="USD">258595</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2005-06-30" />
+<value currency="USD">274209</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2005-03-31" />
+<value currency="USD">1369909</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2004-12-31" />
+<value currency="USD">1460711</value>
+</budget>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="2004-10-01" currency="USD">14794704</value>
+<transaction-date iso-date="2004-10-01" />
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-12-15" currency="USD">932838</value>
+<transaction-date iso-date="2009-12-15" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-05-20" currency="USD">1526723</value>
+<transaction-date iso-date="2009-05-20" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-11-12" currency="USD">971190</value>
+<transaction-date iso-date="2008-11-12" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-06-25" currency="USD">831742</value>
+<transaction-date iso-date="2008-06-25" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-04-09" currency="USD">143078</value>
+<transaction-date iso-date="2008-04-09" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-11-06" currency="USD">1225623</value>
+<transaction-date iso-date="2007-11-06" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-06-01" currency="USD">1413296</value>
+<transaction-date iso-date="2007-06-01" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-12-07" currency="USD">2114955</value>
+<transaction-date iso-date="2006-12-07" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-08-16" currency="USD">153365</value>
+<transaction-date iso-date="2006-08-16" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-05-02" currency="USD">252999</value>
+<transaction-date iso-date="2006-05-02" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2005-12-08" currency="USD">1821710</value>
+<transaction-date iso-date="2005-12-08" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2005-08-10" currency="USD">302357</value>
+<transaction-date iso-date="2005-08-10" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2005-04-04" currency="USD">1648356</value>
+<transaction-date iso-date="2005-04-04" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2004-10-04" currency="USD">1456473</value>
+<transaction-date iso-date="2004-10-04" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-R03-ML_Proposal_0_en">
+<language>en</language>
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Original Proposal</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-R03-ML_RCCProposal_0_en">
+<language>en</language>
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">RCC Proposal</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_GA_0_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Program grant agreement</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_IL_1_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Implementation Letter v.1</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_IL_2_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Implementation Letter v.2</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_IL_3_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Implementation Letter v.3</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_IL_5_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Implementation Letter v.5</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_GPR_0_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Performance Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_GSC_0_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Score Card</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_DR_2_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 2</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_DR_3_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 3</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_DR_4_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 4</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_DR_5_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 5</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_DR_6_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 6</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_DR_7_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 7</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_DR_8_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 8</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_DR_9_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 9</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_DR_10_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 10</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_DR_11_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 11</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_DR_12_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 12</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-304-G02-M_DR_13_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 13</title>
+</document-link>
+<activity-website>http://portfolio.theglobalfund.org/en/Grant/Index/GMB-304-G02-M</activity-website>
+</iati-activity>
+<iati-activity default-currency="USD" last-updated-datetime="2011-07-13" xml:lang="en" hierarchy="1">
+<reporting-org ref="47045" type="40">The Global Fund to Fight AIDS, Tuberculosis and Malaria</reporting-org>
+<iati-identifier>47045-GMB-506-G03-T</iati-identifier>
+<title xml:lang="en">Program to provide the hightest standard available of prevention, treatment, care and support services to people living with TB which is accessible and affordable in order to live in dignity and maintain positive and productive life free from stigma and d</title>
+<description type="1">Although the incidence and prevalence of TB in the Gambia are unknown, it is a growing public health problem as indicated by the rising number of cases.  The program supported by this grant will expand the TB diagnostic and treatment network together with an extension of laboratory services.  To integrate DOTS services into the existing health system, the program will provide training and support this integration through a new manual for TB management.  The program will further strengthen HIV/TB collaborative activities to reduce the burden of TB in people living with HIV and AIDS and to decrease the burden of HIV in TB patients.  In addition to the general population of the Gambia, the program targets the following vulnerable groups:  children under five years of age, people living with HIV and AIDS and adults who are prisoners and refugees.</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2006-06-01" />
+<contact-info>
+<organization>The Global Fund to Fight AIDS, Tuberculosis and Malaria</organization>
+<person-name>Dominique, Johnson</person-name>
+<email>Dominique.Johnson@theglobalfund.org</email>
+</contact-info>
+<participating-org role="Funding" ref="47045" xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</participating-org>
+<participating-org role="Implementing" type="Government" xml:lang="en">Ministry of Health and Social Welfare of Gambia</participating-org>
+<recipient-country code="GM">Gambia</recipient-country>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<budget type="Original">
+<period-end iso-date="2011-06-30" />
+<value currency="USD">154905</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-03-31" />
+<value currency="USD">229494</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-12-31" />
+<value currency="USD">195505</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-09-30" />
+<value currency="USD">255192</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-06-30" />
+<value currency="USD">153513</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-03-31" />
+<value currency="USD">236435</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2009-12-31" />
+<value currency="USD">185448</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2009-09-30" />
+<value currency="USD">232368</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2009-06-30" />
+<value currency="USD">160773</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2009-03-31" />
+<value currency="USD">256955</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2008-12-31" />
+<value currency="USD">194373</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2008-09-30" />
+<value currency="USD">216643</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2008-05-31" />
+<value currency="USD">228733</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2007-12-31" />
+<value currency="USD">195373</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2007-09-30" />
+<value currency="USD">195291</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2007-06-30" />
+<value currency="USD">269595</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2007-03-31" />
+<value currency="USD">294933</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2006-12-31" />
+<value currency="USD">270826</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2006-09-30" />
+<value currency="USD">518582</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2006-06-30" />
+<value currency="USD">587994</value>
+</budget>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="2006-06-01" currency="USD">5032929</value>
+<transaction-date iso-date="2006-06-01" />
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-12-15" currency="USD">385486</value>
+<transaction-date iso-date="2010-12-15" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-06-08" currency="USD">478447</value>
+<transaction-date iso-date="2010-06-08" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-12-04" currency="USD">357919</value>
+<transaction-date iso-date="2009-12-04" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-05-20" currency="USD">291425</value>
+<transaction-date iso-date="2009-05-20" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-02-19" currency="USD">193800</value>
+<transaction-date iso-date="2009-02-19" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-07-02" currency="USD">633289</value>
+<transaction-date iso-date="2008-07-02" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-01-30" currency="USD">404433</value>
+<transaction-date iso-date="2008-01-30" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-10-19" currency="USD">437878</value>
+<transaction-date iso-date="2007-10-19" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-05-24" currency="USD">287994</value>
+<transaction-date iso-date="2007-05-24" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-12-22" currency="USD">338469</value>
+<transaction-date iso-date="2006-12-22" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2006-05-15" currency="USD">1091590</value>
+<transaction-date iso-date="2006-05-15" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-R05-TB_Proposal_0_en">
+<language>en</language>
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Original Proposal</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-506-G03-T_GA_0_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Program grant agreement</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-506-G03-T_GA_1_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Program grant agreement v.1</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-506-G03-T_IL_1_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Implementation Letter v.1</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-506-G03-T_IL_3_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Implementation Letter v.3</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-506-G03-T_GPR_0_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Performance Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-506-G03-T_GSC_0_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Score Card</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-506-G03-T_DR_2_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 2</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-506-G03-T_DR_3_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 3</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-506-G03-T_DR_4_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 4</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-506-G03-T_DR_5_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 5</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-506-G03-T_DR_6_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 6</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-506-G03-T_DR_7_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 7</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-506-G03-T_DR_8_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 8</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-506-G03-T_DR_9_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 9</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-506-G03-T_DR_10_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 10</title>
+</document-link>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title># Health facilities with surveillance system on TB/HIV in place</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="30" />
+<actual value="29" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>% defaulters after implementing general incentive system</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="N: 
+D: 
+P: 4.5 %" />
+<actual value="N: 11
+D: 351
+P: 3.1 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>% of retreatment (RTT) cases that have culture and sensitivity test done</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="N: 
+D: 
+P: 100 %" />
+<actual value="N: 
+D: 
+P: 100 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Default rate of retreatment (RTT) cases</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="N: 
+D: 
+P: 1 %" />
+<actual value="N: 2
+D: 19
+P: 10.5 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and % of health facilities (treatment centres) applying quality control procedures</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="N: 30
+D: 30
+P: 100 %" />
+<actual value="N: 27
+D: 29
+P: 93.1 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and % of health facilities (treatment centres) with no stock out of TB drugs</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="N: 30
+D: 30
+P: 100 %" />
+<actual value="N: 29
+D: 29
+P: 100 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of Health Care Providers trained</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="1,543" />
+<actual value="1,445" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of health facilities serving as diagnostic centre for DOTS as well as for VCT services.</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="30" />
+<actual value="29" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of people reached through BCC activities</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="6,269" />
+<actual value="6,248" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of PLWAs screened for TB out of all HIV positive tested patients in testing centres. </title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="5,726" />
+<actual value="6,072" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of Service delivery points supported</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="30" />
+<actual value="29" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of TB patients receiving Food + Transport support (Enablers Package) during the intensive treatment period</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="1,590" />
+<actual value="1,619" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of TB patients successfully treated</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="N: 876
+D: 975
+P: 89.8 %" />
+<actual value="N: 595
+D: 663
+P: 89.7 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Percentage of health facilities submitting complete reports on time</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="N: 
+D: 
+P: 100 %" />
+<actual value="N: 22
+D: 29
+P: 75.9 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Percentage of HIV positive TB patients who are started on or continue previously initiated ART, during or at the end of TB treatment, as a proportion of all HIV positive registered TB patients</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="N: 
+D: 
+P: 50 %" />
+<actual value="N: 17
+D: 62
+P: 27.4 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Percentage of TB patients who received HIV testing</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="N: 
+D: 
+P: 95 %" />
+<actual value="N: 307
+D: 540
+P: 56.9 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>The number of new smear positive TB cases detected under DOTS</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="1,113" />
+<actual value="675" />
+</period>
+</indicator>
+</result>
+<activity-website>http://portfolio.theglobalfund.org/en/Grant/Index/GMB-506-G03-T</activity-website>
+</iati-activity>
+<iati-activity default-currency="USD" last-updated-datetime="2010-09-29" xml:lang="en" hierarchy="1">
+<reporting-org ref="47045" type="40">The Global Fund to Fight AIDS, Tuberculosis and Malaria</reporting-org>
+<iati-identifier>47045-GMB-607-G04-M</iati-identifier>
+<title xml:lang="en">National Scaling up of the prevention and treatment of malaria in The Gambia</title>
+<description type="1">In the Gambia, malaria is holo- to meso-endemic with highly seasonal variation.  The program supported by this grant is targeting five health divisions: North Bank West, North East, Lower River, Central River and Upper River.  The program plans to distribute 303,662 long-lasting insecticide-treated bed nets to children under age five and pregnant women in the five targeted divisions.  Additionally, the program plans to retreat 97,937 existing nets at community level.  The program also aims to reach 50 percent of the population with prompt, effective antimalarial treatment using artemisinin-based combination therapies and to treat 60 percent of children under five who are infected with uncomplicated malaria.</description>
+<activity-status code="3">Completion</activity-status>
+<activity-date type="start-actual" iso-date="2007-07-01" />
+<activity-date type="end-planned" iso-date="2012-06-30" />
+<contact-info>
+<organization>The Global Fund to Fight AIDS, Tuberculosis and Malaria</organization>
+<person-name>Dominique, Johnson</person-name>
+<email>Dominique.Johnson@theglobalfund.org</email>
+</contact-info>
+<participating-org role="Funding" ref="47045" xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</participating-org>
+<participating-org role="Implementing" type="Government" xml:lang="en">Ministry of Health and Social Welfare of Gambia</participating-org>
+<recipient-country code="GM">Gambia</recipient-country>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<budget type="Original">
+<period-end iso-date="2012-06-30" />
+<value currency="USD">177460</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-03-31" />
+<value currency="USD">344160</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-12-31" />
+<value currency="USD">1353132</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-09-30" />
+<value currency="USD">1437622</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-06-30" />
+<value currency="USD">199760</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-03-31" />
+<value currency="USD">311335</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-12-31" />
+<value currency="USD">1601445</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-09-30" />
+<value currency="USD">978030</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-06-30" />
+<value currency="USD">181460</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-03-31" />
+<value currency="USD">464305</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2009-12-31" />
+<value currency="USD">1318558</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2009-09-30" />
+<value currency="USD">547717</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2009-06-30" />
+<value currency="USD">318197</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2009-03-31" />
+<value currency="USD">190258</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2008-12-31" />
+<value currency="USD">662247</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2008-09-30" />
+<value currency="USD">2933840</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2008-06-30" />
+<value currency="USD">337824</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2008-03-31" />
+<value currency="USD">537936</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2007-12-31" />
+<value currency="USD">1795860</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2007-09-30" />
+<value currency="USD">2368958</value>
+</budget>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="2007-07-01" currency="USD">11585193</value>
+<transaction-date iso-date="2007-07-01" />
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-03-16" currency="USD">220926</value>
+<transaction-date iso-date="2010-03-16" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-12-18" currency="USD">1923304</value>
+<transaction-date iso-date="2009-12-18" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-07-31" currency="USD">435901</value>
+<transaction-date iso-date="2009-07-31" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-05-11" currency="USD">243493</value>
+<transaction-date iso-date="2009-05-11" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-01-15" currency="USD">859287</value>
+<transaction-date iso-date="2009-01-15" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-10-01" currency="USD">1407993</value>
+<transaction-date iso-date="2008-10-01" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-07-02" currency="USD">1900187</value>
+<transaction-date iso-date="2008-07-02" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2008-04-04" currency="USD">429284</value>
+<transaction-date iso-date="2008-04-04" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2007-07-06" currency="USD">4164818</value>
+<transaction-date iso-date="2007-07-06" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-R06-ML_Proposal_0_en">
+<language>en</language>
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Original Proposal</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-607-G04-M_GA_0_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Program grant agreement</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-607-G04-M_GPR_0_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Performance Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-607-G04-M_GSC_0_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Score Card</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-607-G04-M_DR_2_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 2</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-607-G04-M_DR_3_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 3</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-607-G04-M_DR_4_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 4</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-607-G04-M_DR_5_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 5</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-607-G04-M_DR_6_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 6</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-607-G04-M_DR_7_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 7</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-607-G04-M_DR_8_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 8</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-607-G04-M_DR_9_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 9</title>
+</document-link>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title> Number and Percentage of health facilities implementing IPTp.</title>
+<period>
+<period-start iso-date="2012-08-01" />
+<period-end iso-date="2012-10-31" />
+<target value="N: 33
+D: 36.7
+P: 90 %" />
+<actual value="N: 33
+D: 36.7
+P: 90 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number  and Percentage of health facilities with no reported stock outs lasting &gt; 1 week of nationally recommended anti-malarial drugs at any time during the past three months
+</title>
+<period>
+<period-start iso-date="2012-08-01" />
+<period-end iso-date="2012-10-31" />
+<target value="N: 
+D: 
+P: 96 %" />
+<actual value="N: 
+D: 
+P: 96 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of bed nets re- treated 
+</title>
+<period>
+<period-start iso-date="2012-08-01" />
+<period-end iso-date="2012-10-31" />
+<target value="103,682" />
+<actual value="222,286" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of children under the age of five with uncomplicated malaria receiving anti-malarials (ACTs) as per national guidelines</title>
+<period>
+<period-start iso-date="2012-08-01" />
+<period-end iso-date="2012-10-31" />
+<target value="440,580" />
+<actual value="311,448" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of health workers trained in case management according to national guidelines
+</title>
+<period>
+<period-start iso-date="2012-08-01" />
+<period-end iso-date="2012-10-31" />
+<target value="462" />
+<actual value="432" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of health workers trained on IPTp
+</title>
+<period>
+<period-start iso-date="2012-08-01" />
+<period-end iso-date="2012-10-31" />
+<target value="920" />
+<actual value="935" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of LLNs distributed to children under 5
+</title>
+<period>
+<period-start iso-date="2012-08-01" />
+<period-end iso-date="2012-10-31" />
+<target value="226,879" />
+<actual value="233,633" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of LLNs distributed to differentially able individuals and PLWHA 
+</title>
+<period>
+<period-start iso-date="2012-08-01" />
+<period-end iso-date="2012-10-31" />
+<target value="79,832" />
+<actual value="82,764" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of LLNs distributed to pregnant women
+</title>
+<period>
+<period-start iso-date="2012-08-01" />
+<period-end iso-date="2012-10-31" />
+<target value="77,360" />
+<actual value="68,406" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of pregnant women who have received IPTp according to the National guidelines 
+</title>
+<period>
+<period-start iso-date="2012-08-01" />
+<period-end iso-date="2012-10-31" />
+<target value="65,364" />
+<actual value="62,278" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of Sentinal Sites established for monitoring anti malaria drug resistance
+</title>
+<period>
+<period-start iso-date="2012-08-01" />
+<period-end iso-date="2012-10-31" />
+<target value="6" />
+<actual value="6" />
+</period>
+</indicator>
+</result>
+<activity-website>http://portfolio.theglobalfund.org/en/Grant/Index/GMB-607-G04-M</activity-website>
+</iati-activity>
+<iati-activity default-currency="USD" last-updated-datetime="2012-07-25" xml:lang="en" hierarchy="1">
+<reporting-org ref="47045" type="40">The Global Fund to Fight AIDS, Tuberculosis and Malaria</reporting-org>
+<iati-identifier>47045-GMB-809-G05-H</iati-identifier>
+<title xml:lang="en">Accelerating access to Prevention, Treatment, Care and Support Services</title>
+<description type="1">1.Background and Summary:  
+Based on the results of the National Sentinel Surveillance (2006) it was estimated that 2.8% of pregnant women in The Gambia are HIV positive. HIV sentinel surveillance is the only data source in The Gambia, which enables follow up of the evolution of the epidemic. The Gambia is a low income country (155 out of 177 in Human Development Index 2007) with 60% of people living on less than 1 US Dollar a day. Thus, this Program aims to halt and reverse the spread of HIV/AIDS by increasing universal access to an elevated system of health care.
+
+To reach this goal, behavior change communication (BCC) and community prevention will be a key factor. Indeed, despite the major achievement in increasing knowledge levels through HIV/AIDS prevention programs, there are still major misconceptions as evidenced in the 2005 Behavior Surveillance Survey (BSS) and Multi-Indicator Cluster Survey III (MICS3 - 2005/6). Stigma and discrimination continue to affect uptake of Antiretroviral Therapy (ART) in the country. Stigma engenders fear, anger, and suspicion and militates against access and utilization of treatment, care and support of People Living with HIV/AIDS (PLWHA) and their families. 
+
+Another significant challenge to reach PLWHA in The Gambia is the inadequate number of skilled staff and the high attrition rate among the health workers. Additionally, infrastructure, equipment and logistics available in the health sector are inadequate and maintenance activities are infrequently performed. 
+
+Given this country context, the Country Coordinating Mechanism (CCM) proposed a dual-track financed Program including a Health System Strengthening component. This Principal Recipient, will focus on the treatment of AIDS and will work in collaboration with the Ministry of Health, and the University of the Gambia to reinforce the Health System while a second Principal Recipient, at the time of signature of this Agreement Action Aid The Gambia, will mainly focus on mass media and community prevention and on the home-based care. 
+
+2. Goal:  To contribute to the halt and reverse the prevalence of HIV infection by providing universal access to high standards of prevention, treatment, care, and support.
+
+3.Target Group/Beneficiaries:
+•	PLWHA;
+•	Pregnant women and children;
+•	Orphans and vulnerable children (OVC);
+•	Students; and
+•	Commercial sex workers (CSW).
+
+4.	Strategies:
+•	Refurbish of existing sites and establish more sites;
+•	Establish of youth friendly Volunteer Counseling and Testing (VCT) centre in each of the seven Regions;
+•	Encourage private sector participation in the provision of ART; 
+•	Ensure greater involvement of the private sector, both for profit and not-for-profit  to prevent mother to child transmission; and
+•	Prevent and treat opportunistic infections.
+
+5.	Planned Activities:
+
+•	Consolidate existing 34 sites and establish new 50 VCT sites both public and private;
+•	Scale up community outreach VCT services;
+•	Scale up community outreach PMTCT services;
+•	Strengthen and scale up nutritional support for babies born to HIV positive mothers;
+•	Support administration of ARV and cotrimoxazole uptake at both health facility and community levels; 
+•	Training of Health service providers (both public and private) in ART &amp; HIV clinical care. 
+•	Consolidate the existing 8 ART sites &amp;  additional 5 new sites; 
+•	Screening of  HIV positive patients for TB; and
+•	Provide nutritional  care and support to PLWHA</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2009-12-01" />
+<contact-info>
+<organization>The Global Fund to Fight AIDS, Tuberculosis and Malaria</organization>
+<person-name>Dominique, Johnson</person-name>
+<email>Dominique.Johnson@theglobalfund.org</email>
+</contact-info>
+<participating-org role="Funding" ref="47045" xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</participating-org>
+<participating-org role="Implementing" type="Government" xml:lang="en">National AIDS Secretariat of Gambia</participating-org>
+<recipient-country code="GM">Gambia</recipient-country>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<budget type="Original">
+<period-end iso-date="2014-11-30" />
+<value currency="USD">633357</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2014-09-30" />
+<value currency="USD">554732</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2014-06-30" />
+<value currency="USD">665275</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2014-03-31" />
+<value currency="USD">4226319</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2013-12-31" />
+<value currency="USD">572737</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2013-09-30" />
+<value currency="USD">531069</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2013-06-30" />
+<value currency="USD">642487</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2013-03-31" />
+<value currency="USD">3354318</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-12-31" />
+<value currency="USD">564170</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-09-30" />
+<value currency="USD">511192</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-06-30" />
+<value currency="USD">892031</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-03-31" />
+<value currency="USD">4018390</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-12-31" />
+<value currency="USD">755621</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-09-30" />
+<value currency="USD">1075826</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-06-30" />
+<value currency="USD">2333852</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-03-31" />
+<value currency="USD">1181556</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-12-31" />
+<value currency="USD">745141</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-09-30" />
+<value currency="USD">1324618</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-06-30" />
+<value currency="USD">2856368</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-03-31" />
+<value currency="USD">1878358</value>
+</budget>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="2009-12-01" currency="USD">16792989</value>
+<transaction-date iso-date="2009-12-01" />
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2012-07-16" currency="USD">2320117</value>
+<transaction-date iso-date="2012-07-16" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-10-26" currency="USD">1320471</value>
+<transaction-date iso-date="2011-10-26" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-05-04" currency="USD">1929879</value>
+<transaction-date iso-date="2011-05-04" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-02-25" currency="USD">1437643</value>
+<transaction-date iso-date="2011-02-25" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-11-19" currency="USD">673410</value>
+<transaction-date iso-date="2010-11-19" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-09-15" currency="USD">255885</value>
+<transaction-date iso-date="2010-09-15" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-08-24" currency="USD">1345216</value>
+<transaction-date iso-date="2010-08-24" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-07-23" currency="USD">100252</value>
+<transaction-date iso-date="2010-07-23" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-06-01" currency="USD">480099</value>
+<transaction-date iso-date="2010-06-01" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-03-31" currency="USD">197491</value>
+<transaction-date iso-date="2010-03-31" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-03-01" currency="USD">854802</value>
+<transaction-date iso-date="2010-03-01" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-02-18" currency="USD">374487</value>
+<transaction-date iso-date="2010-02-18" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-01-28" currency="USD">255070</value>
+<transaction-date iso-date="2010-01-28" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-12-02" currency="USD">2789497</value>
+<transaction-date iso-date="2009-12-02" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-R08-HA_Proposal_0_en">
+<language>en</language>
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Original Proposal</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-809-G05-H_IL_2_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Implementation Letter v.2</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-809-G05-H_GPR_0_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Performance Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-809-G05-H_GSC_0_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Score Card</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-809-G05-H_DR_1_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 1</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-809-G05-H_DR_2_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 2</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-809-G05-H_DR_3_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 3</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-809-G05-H_DR_4_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 4</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-809-G05-H_DR_5_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 5</title>
+</document-link>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and % of adults and children with advanced HIV infection currently receiving ART</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="2,842" />
+<actual value="N: 2,891
+D: 1,889.5
+P: 153 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and % of people (15-49 yrs) who received VCT and know their status</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="75,515" />
+<actual value="60,998" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and % of pregnant women who received VCT and know their status</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="12,275" />
+<actual value="N: 41,191
+D: 70,318
+P: 58.6 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and percentage of HIV-positive pregnant women who received a complete course of antiretroviral prophylaxis over the past 12 months to reduce the risk of mother-to-child transmission</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="290" />
+<actual value="N: 817
+D: 1,966
+P: 41.6 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of babies born to HIV positive women and put on cotrimoxazole prophylaxis within 2 months of birth</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="230" />
+<actual value="846" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of existing laboratories equipped</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="25" />
+<actual value="25" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of health facilities submitting timely and complete reports to the PR</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="N: 52
+D: 57.8
+P: 90 %" />
+<actual value="N: 114
+D: 125.3
+P: 91 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of health facilities with PEP services.     </title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="60" />
+<actual value="61" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of HIV positive patients screened for TB</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="4,065" />
+<actual value="5,395" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of new ART sites established and providing TB services</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="4" />
+<actual value="2" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of people on prophylaxis and/or treatment for opportunistic infections</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="29,445" />
+<actual value="46,742" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of service providers trained on ART and clinical care</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="140" />
+<actual value="104" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of tuition fees paid to support health training programmes </title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="606" />
+<actual value="454" />
+</period>
+</indicator>
+</result>
+<activity-website>http://portfolio.theglobalfund.org/en/Grant/Index/GMB-809-G05-H</activity-website>
+</iati-activity>
+<iati-activity default-currency="USD" last-updated-datetime="2012-10-15" xml:lang="en" hierarchy="1">
+<reporting-org ref="47045" type="40">The Global Fund to Fight AIDS, Tuberculosis and Malaria</reporting-org>
+<iati-identifier>47045-GMB-809-G06-H</iati-identifier>
+<title xml:lang="en">Accelerating access to Prevention, Treatment, Care and Support Services</title>
+<description type="1">Based on the results of the National Sentinel Surveillance (2006) it was estimated that 2.8% of pregnant women in The Gambia are HIV positive. HIV sentinel surveillance is the only data source in The Gambia, which enables follow up of the evolution of the epidemic. The Gambia is a low income country (155 out of 177 in Human Development Index 2007) with 60% of people living on less than 1 US Dollar a day. Thus, this Program aims to halt and reverse the spread of HIV/AIDS by increasing universal access to an elevated system of health care.
+
+To reach this goal, behavior change communication (BCC) and community prevention will be a key factor. Indeed, despite the major achievement in increasing knowledge levels through HIV/AIDS prevention programs, there are still major misconceptions as evidenced in the 2005 Behavior Surveillance Survey (BSS) and Multi-Indicator Cluster Survey III (MICS3 - 2005/6). Stigma and discrimination continue to affect uptake of ART in the country. Stigma engenders fear, anger, and suspicion and militates against access and utilization of treatment, care and support of PLWHA and their families. 
+Another significant challenge to reach PLWHA in The Gambia is the inadequate number of skilled staff and the high attrition rate among the health workers. Additionally, infrastructure, equipment and logistics available in the health sector are inadequate and maintenance activities are infrequently performed. 
+
+Given this country context, the Country Coordinating Mechanism (CCM) proposed a dual-track financed Program including a Health System Strengthening component. The Principal Recipient, will mainly focus on mass media and community prevention and on the home-based care to PLWHA while a second principal recipient, at the time of signing of this Grant Agreement the National Aids Secretariat (NAS), will focus on the treatment of AIDS and will work in collaboration with the Ministry of Health, and the University of the Gambia to reinforce the Health System.  
+</description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2009-12-01" />
+<contact-info>
+<organization>The Global Fund to Fight AIDS, Tuberculosis and Malaria</organization>
+<person-name>Dominique, Johnson</person-name>
+<email>Dominique.Johnson@theglobalfund.org</email>
+</contact-info>
+<participating-org role="Funding" ref="47045" xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</participating-org>
+<participating-org role="Implementing" xml:lang="en">Action Aid The Gambia</participating-org>
+<recipient-country code="GM">Gambia</recipient-country>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<budget type="Original">
+<period-end iso-date="2014-12-31" />
+<value currency="USD">515164</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2014-09-30" />
+<value currency="USD">517845</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2014-06-30" />
+<value currency="USD">402423</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2014-03-31" />
+<value currency="USD">554573</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2013-12-31" />
+<value currency="USD">468837</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2013-09-30" />
+<value currency="USD">521378</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2013-06-30" />
+<value currency="USD">438293</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2013-03-31" />
+<value currency="USD">510935</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-12-31" />
+<value currency="USD">544107</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-09-30" />
+<value currency="USD">4700698</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-06-30" />
+<value currency="USD">642749</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-03-31" />
+<value currency="USD">843169</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-12-31" />
+<value currency="USD">621635</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-09-30" />
+<value currency="USD">608253</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-06-30" />
+<value currency="USD">773075</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-03-31" />
+<value currency="USD">844911</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-12-31" />
+<value currency="USD">529108</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-09-30" />
+<value currency="USD">611666</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-06-30" />
+<value currency="USD">886090</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-03-31" />
+<value currency="USD">517996</value>
+</budget>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="2009-12-01" currency="USD">6466249</value>
+<transaction-date iso-date="2009-12-01" />
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2012-08-31" currency="USD">22571</value>
+<transaction-date iso-date="2012-08-31" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2012-02-24" currency="USD">485690</value>
+<transaction-date iso-date="2012-02-24" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-10-03" currency="USD">749370</value>
+<transaction-date iso-date="2011-10-03" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-07-19" currency="USD">1066077</value>
+<transaction-date iso-date="2011-07-19" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-10-20" currency="USD">88739</value>
+<transaction-date iso-date="2010-10-20" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-10-12" currency="USD">1371137</value>
+<transaction-date iso-date="2010-10-12" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-06-14" currency="USD">39665</value>
+<transaction-date iso-date="2010-06-14" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2009-11-20" currency="USD">1429421</value>
+<transaction-date iso-date="2009-11-20" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-R08-HA_Proposal_0_en">
+<language>en</language>
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Original Proposal</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-809-G06-H_GA_0_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Program grant agreement</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-809-G06-H_IL_3_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Implementation Letter v.3</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-809-G06-H_GPR_0_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Performance Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-809-G06-H_GSC_0_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Score Card</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-809-G06-H_DR_1_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 1</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-809-G06-H_DR_2_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 2</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-809-G06-H_DR_3_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 3</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-809-G06-H_DR_4_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 4</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-809-G06-H_DR_5_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 5</title>
+</document-link>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of commercial sex worker trained as peer health educators</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="122" />
+<actual value="242" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of male and female condoms distributed at community and institutional level.</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="222,750" />
+<actual value="1,072,243" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of OVC who received basic external support</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="4,070" />
+<actual value="5,900" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of people (aged between 15-49 years) reached using participatory methods</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="12,470" />
+<actual value="202,367" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of PLHIV provided with Home-Based Care and Psychosocial support</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="470" />
+<actual value="709" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of students and teachers trained on life skills education</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="55" />
+<actual value="1,984" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of young people aged 10 to 24 years reached by life skillbased HIV education in and out of schooll</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="1,650" />
+<actual value="55,093" />
+</period>
+</indicator>
+</result>
+<activity-website>http://portfolio.theglobalfund.org/en/Grant/Index/GMB-809-G06-H</activity-website>
+</iati-activity>
+<iati-activity default-currency="USD" last-updated-datetime="2012-12-10" xml:lang="en" hierarchy="1">
+<reporting-org ref="47045" type="40">The Global Fund to Fight AIDS, Tuberculosis and Malaria</reporting-org>
+<iati-identifier>47045-GMB-M-CRS</iati-identifier>
+<title xml:lang="en">Scaling up Malaria prevention and control for universal coverage to achieve pre-elimination stage in the Gambia</title>
+<description type="1">In Gambia, malaria is holo- to meso-endemic with highly seasonal variation. The program supported by this grant aims to scale up the country&apos;s efforts to eliminate malaria among its population. The program will focus on the diagnosis of malaria, using microscopy and rapid diagnostic tests; treatment at health facilities; and the scaling up of home management of malaria and of indoor residual spraying. The program also aims to scale up the distribution of long-lasting insecticidal nets and behavior change communication activities. </description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2010-05-01" />
+<contact-info>
+<organization>The Global Fund to Fight AIDS, Tuberculosis and Malaria</organization>
+<person-name>Dominique, Johnson</person-name>
+<email>Dominique.Johnson@theglobalfund.org</email>
+</contact-info>
+<participating-org role="Funding" ref="47045" xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</participating-org>
+<participating-org role="Implementing" xml:lang="en">Catholic Relief Services - Gambia</participating-org>
+<recipient-country code="GM">Gambia</recipient-country>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<budget type="Original">
+<period-end iso-date="2012-12-31" />
+<value currency="USD">337197</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-09-30" />
+<value currency="USD">357991</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-06-30" />
+<value currency="USD">672229</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-03-31" />
+<value currency="USD">266394</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-12-31" />
+<value currency="USD">390639</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-09-30" />
+<value currency="USD">502091</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-06-30" />
+<value currency="USD">387621</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-03-31" />
+<value currency="USD">486299</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-12-31" />
+<value currency="USD">962974</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-09-30" />
+<value currency="USD">769934</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-06-30" />
+<value currency="USD">335774</value>
+</budget>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="2010-05-01" currency="USD">5469143</value>
+<transaction-date iso-date="2010-05-01" />
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2012-12-06" currency="USD">479330</value>
+<transaction-date iso-date="2012-12-06" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2012-07-02" currency="USD">552947</value>
+<transaction-date iso-date="2012-07-02" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-12-21" currency="USD">507826</value>
+<transaction-date iso-date="2011-12-21" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-06-24" currency="USD">1094641</value>
+<transaction-date iso-date="2011-06-24" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-07-07" currency="USD">2068682</value>
+<transaction-date iso-date="2010-07-07" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-R09-ML_Proposal_0_en">
+<language>en</language>
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Original Proposal</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-M-CRS_GPR_0_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Performance Report</title>
+</document-link>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of Community representatives (Kabilo) trained on BCC Kabilo approach</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="5,242" />
+<actual value="5,041" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of extension workers trained on Positive Deviance(PD)</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="2,061" />
+<actual value="3,076" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of LLINs distributed to children under one</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="81,458" />
+<actual value="120,949" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of LLINs distributed to pregnant women</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="81,548" />
+<actual value="76,304" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of LLINs distributed to the general population</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="788,692" />
+<actual value="643,334" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of Peer Health Educators Trained to conduct BCC activities in Schools and  communities</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="3,120" />
+<actual value="5,327" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of peers reached by peer health educators in and out of school.</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="93,600" />
+<actual value="102,326" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of visits by Community Representatives (Kabilo) to sensitize households on appropriate actions for malaria control and prevention</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="172,993" />
+<actual value="343,159" />
+</period>
+</indicator>
+</result>
+<activity-website>http://portfolio.theglobalfund.org/en/Grant/Index/GMB-M-CRS</activity-website>
+</iati-activity>
+<iati-activity default-currency="USD" last-updated-datetime="2012-12-10" xml:lang="en" hierarchy="1">
+<reporting-org ref="47045" type="40">The Global Fund to Fight AIDS, Tuberculosis and Malaria</reporting-org>
+<iati-identifier>47045-GMB-M-MOH</iati-identifier>
+<title xml:lang="en">Scaling up Malaria prevention and control for universl coverage to achieve pre-elimination stage in the Gambia</title>
+<description type="1">In Gambia, malaria is holo- to meso-endemic with highly seasonal variation. The program supported by this grant aims to scale up the country&apos;s efforts to eliminate malaria among its population. The program will focus on the diagnosis of malaria, using microscopy and rapid diagnostic tests; treatment at health facilities; and the scaling up of home management of malaria and of indoor residual spraying. The program also aims to scale up the distribution of long-lasting insecticidal nets and behavior change communication activities. </description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2010-05-01" />
+<contact-info>
+<organization>The Global Fund to Fight AIDS, Tuberculosis and Malaria</organization>
+<person-name>Dominique, Johnson</person-name>
+<email>Dominique.Johnson@theglobalfund.org</email>
+</contact-info>
+<participating-org role="Funding" ref="47045" xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</participating-org>
+<participating-org role="Implementing" type="Government" xml:lang="en">Ministry of Health and Social Welfare of Gambia</participating-org>
+<recipient-country code="GM">Gambia</recipient-country>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<budget type="Original">
+<period-end iso-date="2012-12-31" />
+<value currency="USD">237515</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-09-30" />
+<value currency="USD">884164</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-06-30" />
+<value currency="USD">4404720</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-03-31" />
+<value currency="USD">546080</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-12-31" />
+<value currency="USD">635401</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-09-30" />
+<value currency="USD">786138</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-06-30" />
+<value currency="USD">4556699</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-03-31" />
+<value currency="USD">849906</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-12-31" />
+<value currency="USD">716541</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-09-30" />
+<value currency="USD">689324</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-06-30" />
+<value currency="USD">6450730</value>
+</budget>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="2010-05-01" currency="USD">20757221</value>
+<transaction-date iso-date="2010-05-01" />
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2012-07-12" currency="USD">3531981</value>
+<transaction-date iso-date="2012-07-12" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-05-04" currency="USD">5517514</value>
+<transaction-date iso-date="2011-05-04" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-07-12" currency="USD">6670493</value>
+<transaction-date iso-date="2010-07-12" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-R09-ML_Proposal_0_en">
+<language>en</language>
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Original Proposal</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-M-MOH_GPR_0_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Performance Report</title>
+</document-link>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title> Number of regional Vector Control Officers trained on  entomological surveillance</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="32" />
+<actual value="32" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title> Number of village health workers trained  on the use of RDTs for accurate diagnosis of malaria at community level</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="450" />
+<actual value="390" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>A national Monitoring and Evaluation Plan developed and implemented</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="1" />
+<actual value="1" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number and percentage of public  health facilities with no reported stock-outs of nationally recommended antimalarial drugs lasting more than one week at any time during the past three months</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="N: 52
+D: 52
+P: 100 %" />
+<actual value="N: 52
+D: 52
+P: 100 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of  health workers  trained on disease surveillance</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="210" />
+<actual value="140" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of children under the age of five with uncomplicated malaria receiving anti-malarials (ACTs) as per national guidelines </title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="43,955" />
+<actual value="7,221" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of community health worker/caregivers trained on home management of malaria</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="6,000" />
+<actual value="6,000" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of health workers trained  on the use of RDTs at health facility level</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="388" />
+<actual value="388" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of health workers trained in case management according to national guidelines</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="275" />
+<actual value="341" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of Health Workers trained/retrained  in IPT </title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="640" />
+<actual value="642" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of people age 5 and above with uncomplicated malaria receiving anti-malarials (ACTs) as per national guidelines </title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="42,708" />
+<actual value="19,156" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of people presenting to the health worker/village health worker with fever  who had finger prick for malaria testing using RDTs</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="286,931" />
+<actual value="127,694" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of pregnant women who have received IPTp according to the National guidelines</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="22,744" />
+<actual value="23,179" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of rooms sprayed during IRS</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="198,057" />
+<actual value="200,848" />
+</period>
+</indicator>
+</result>
+<activity-website>http://portfolio.theglobalfund.org/en/Grant/Index/GMB-M-MOH</activity-website>
+</iati-activity>
+<iati-activity default-currency="USD" last-updated-datetime="2012-10-16" xml:lang="en" hierarchy="1">
+<reporting-org ref="47045" type="40">The Global Fund to Fight AIDS, Tuberculosis and Malaria</reporting-org>
+<iati-identifier>47045-GMB-T-MOH</iati-identifier>
+<title xml:lang="en">Strengthening and expansion of DOTS services in the Gambia</title>
+<description type="1">The annual burden of all forms of tuberculosis (TB) in The Gambia is estimated to be 4,415 cases (TB incidence of 257 per 100,000 population), including 1,893 (113 per 100,000 population) smear-positive TB cases.  The goal of the Program is aligned with the National Strategic Plan for Tuberculosis Control (2008-2012) i.e. to reduce transmission, morbidity and mortality of TB so that it is no longer a public health problem.  It aims to increase access to TB diagnosis and treatment, to achieve the minimum 70%  percent case detection rate and at least 85 percent treatment success rate.  It is expected that the Program will build upon the achievements of the Round 5 Global Fund funded grant, which is expected to end in 2011, but also tackle several challenges, including a relatively high TB mortality rate, a weak referral system, and areas with spatial clustering of TB cases.  The Program will be implemented through dual-track financing arrangement, which will be implemented in the country by two Principal Recipients.   The current grant will focus on the identification/treatment of infectious TB cases, increasing access to HIV counselling and testing for TB patients, and on the introduction of the Practical Approach to Lung Health Strategy.  </description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2010-07-01" />
+<contact-info>
+<organization>The Global Fund to Fight AIDS, Tuberculosis and Malaria</organization>
+<person-name>Dominique, Johnson</person-name>
+<email>Dominique.Johnson@theglobalfund.org</email>
+</contact-info>
+<participating-org role="Funding" ref="47045" xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</participating-org>
+<participating-org role="Implementing" type="Government" xml:lang="en">Ministry of Health and Social Welfare of Gambia</participating-org>
+<recipient-country code="GM">Gambia</recipient-country>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<budget type="Original">
+<period-end iso-date="2012-12-31" />
+<value currency="USD">265346</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-09-30" />
+<value currency="USD">706517</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-06-30" />
+<value currency="USD">284935</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-03-31" />
+<value currency="USD">304666</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-12-31" />
+<value currency="USD">372308</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-09-30" />
+<value currency="USD">1069258</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-06-30" />
+<value currency="USD">220016</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-03-31" />
+<value currency="USD">301644</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-12-31" />
+<value currency="USD">626938</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-09-30" />
+<value currency="USD">566255</value>
+</budget>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="2010-07-01" currency="USD">3746019</value>
+<transaction-date iso-date="2010-07-01" />
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2012-04-30" currency="USD">818464</value>
+<transaction-date iso-date="2012-04-30" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-04-29" currency="USD">1281653</value>
+<transaction-date iso-date="2011-04-29" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-09-10" currency="USD">1444837</value>
+<transaction-date iso-date="2010-09-10" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-R09-TB_Proposal_0_en">
+<language>en</language>
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Original Proposal</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-T-MOH_IL_2_en">
+<language>en</language>
+<category code="A09">Memorandum of understanding</category>
+<title xml:lang="en">Implementation Letter v.2</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-T-MOH_GPR_0_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Performance Report</title>
+</document-link>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title> National Monitoring and Evaluation Plan implemented</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="4" />
+<actual value="3" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>New smear-positive TB patients successfully treated (cured plus completed treatment) among the new smear-positive TB patients registered during a specified period (number and percentage)</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="N: 937
+D: 986
+P: 95 %" />
+<actual value="N: 1,185
+D: 1,319
+P: 89.8 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number (%) of TB treatment units reporting no stock out of first line anti TB drugs (for more a week during the reporting quarter)</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="N: 34
+D: 34
+P: 100 %" />
+<actual value="N: 32
+D: 32
+P: 100 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of health care workers who receive training during the year</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="2,062" />
+<actual value="1,371" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of new smear positive TB cases notified to the national health authority </title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="1,140" />
+<actual value="1,375" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of people sensitized on TB for advocacy work</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="1,140" />
+<actual value="1,140" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of TB patients receiving Food support (Enablers Package) during the treatment period</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="1,916" />
+<actual value="2,550" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of TB service delivery points supported &amp; operational </title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="34" />
+<actual value="32" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Percentage of eligible TB and HIV co-infected patients on ART</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="N: 
+D: 
+P: 80 %" />
+<actual value="N: 63
+D: 167
+P: 37.7 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Percentage of HIV positive TB patients who started on CPT during TB treatment</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="N: 
+D: 
+P: 95 %" />
+<actual value="N: 161
+D: 167
+P: 96.4 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Percentage of HIV/TB patients who complete CPT during TB treatment (adherance)</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="N: 
+D: 
+P: 95 %" />
+<actual value="N: 84
+D: 87
+P: 96.6 %" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Percentage of TB patients HIV tested who have received the results</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="N: 
+D: 
+P: 95 %" />
+<actual value="N: 874
+D: 1,118
+P: 78.2 %" />
+</period>
+</indicator>
+</result>
+<activity-website>http://portfolio.theglobalfund.org/en/Grant/Index/GMB-T-MOH</activity-website>
+</iati-activity>
+<iati-activity default-currency="USD" last-updated-datetime="2012-10-16" xml:lang="en" hierarchy="1">
+<reporting-org ref="47045" type="40">The Global Fund to Fight AIDS, Tuberculosis and Malaria</reporting-org>
+<iati-identifier>47045-GMB-T-MRC</iati-identifier>
+<title xml:lang="en">Strengthening and expansion of DOTS services in the Gambia</title>
+<description type="1">The annual burden of all forms of tuberculosis (TB) in The Gambia is estimated to be 4,415 cases (TB incidence of 257 per 100,000 population), including 1,893 (113 per 100,000 population) smear-positive TB cases.  The goal of the Program is aligned with the National Strategic Plan for Tuberculosis Control (2008-2012) i.e. to reduce transmission, morbidity and mortality of TB so that it is no longer a public health problem.  It aims to increase access to TB diagnosis and treatment, to achieve the minimum 70 percent case detection rate and at least 85 percent treatment success rate.  It is expected that the Program will build upon the achievements of the Round 5 Global Fund funded grant, which is expected to end in 2011, but also tackle several challenges, including a relatively high TB mortality rate, a weak referral system, and areas with spatial clustering of TB cases.  The Program will be implemented through dual-track financing arrangement, which will be implemented in the country by two Principal Recipients.   The current grant will focus on operational research, including the administration of a National Tuberculosis Prevalence Survey. </description>
+<activity-status code="2">Implementation</activity-status>
+<activity-date type="start-actual" iso-date="2010-07-01" />
+<contact-info>
+<organization>The Global Fund to Fight AIDS, Tuberculosis and Malaria</organization>
+<person-name>Dominique, Johnson</person-name>
+<email>Dominique.Johnson@theglobalfund.org</email>
+</contact-info>
+<participating-org role="Funding" ref="47045" xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</participating-org>
+<participating-org role="Implementing" type="Private Sector" xml:lang="en">Medical Research Council</participating-org>
+<recipient-country code="GM">Gambia</recipient-country>
+<default-finance-type code="110">Aid grant excluding debt reorganisation</default-finance-type>
+<default-aid-type code="C01">Project-type interventions</default-aid-type>
+<default-tied-status code="5">Untied</default-tied-status>
+<budget type="Original">
+<period-end iso-date="2012-12-31" />
+<value currency="USD">113260</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-09-30" />
+<value currency="USD">284258</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-06-30" />
+<value currency="USD">260265</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2012-03-31" />
+<value currency="USD">251266</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-12-31" />
+<value currency="USD">238302</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-09-30" />
+<value currency="USD">367029</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-06-30" />
+<value currency="USD">318930</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2011-03-31" />
+<value currency="USD">110542</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-12-31" />
+<value currency="USD">125156</value>
+</budget>
+<budget type="Original">
+<period-end iso-date="2010-09-30" />
+<value currency="USD">1089900</value>
+</budget>
+<transaction>
+<transaction-type code="C">Commitment</transaction-type>
+<value value-date="2010-07-01" currency="USD">3158908</value>
+<transaction-date iso-date="2010-07-01" />
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2012-04-18" currency="USD">484580</value>
+<transaction-date iso-date="2012-04-18" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-11-28" currency="USD">492783</value>
+<transaction-date iso-date="2011-11-28" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2011-04-08" currency="USD">679899</value>
+<transaction-date iso-date="2011-04-08" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<transaction>
+<transaction-type code="D">Disbursement</transaction-type>
+<value value-date="2010-09-10" currency="USD">1325598</value>
+<transaction-date iso-date="2010-09-10" />
+<disbursement-channel code="2">Money is disbursed directly to the implementing institution and managed through a separate bank account</disbursement-channel>
+</transaction>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-R09-TB_Proposal_0_en">
+<language>en</language>
+<category code="A02">Objectives / Purpose of activity</category>
+<title xml:lang="en">Original Proposal</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-T-MRC_GPR_0_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Grant Performance Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/grantDocuments/GMB-T-MRC_DR_3_en">
+<language>en</language>
+<category code="A07">Review of project performance and evaluation</category>
+<title xml:lang="en">Disbursement Request 3</title>
+</document-link>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Development of enhanced case finding strategy and assessment of impact on case notification </title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="3" />
+<actual value="2" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Estimate of persons with the correct knowledge of TB transmission, symptoms and treatment</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="3" />
+<actual value="2" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Estimate of the annual risk of tuberculosis infection (ARTI)</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="3" />
+<actual value="2" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Estimate of the number of active TB cases per 100,000 population</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="4" />
+<actual value="3" />
+</period>
+</indicator>
+</result>
+<result type="Output" aggregation-status="false">
+<indicator measure="text" ascending="false">
+<title>Number of staff trained</title>
+<period>
+<period-start iso-date="2012-07-01" />
+<period-end iso-date="2012-09-30" />
+<target value="76" />
+<actual value="73" />
+</period>
+</indicator>
+</result>
+<activity-website>http://portfolio.theglobalfund.org/en/Grant/Index/GMB-T-MRC</activity-website>
+</iati-activity>
+</iati-activities>

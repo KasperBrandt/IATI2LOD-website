@@ -1,0 +1,43 @@
+@prefix iati: <http://purl.org/collections/iati/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://purl.org/collections/iati/graph/activity/cafod-chad> a iati:graph ;
+    rdfs:label "cafod-chad" ;
+    iati:extras-activity-count "1" ;
+    iati:extras-country <http://purl.org/collections/iati/codelist/Country/TD> ;
+    iati:extras-data-updated "2013-01-23" ;
+    iati:extras-filetype "activity" ;
+    iati:extras-language "en" ;
+    iati:extras-publisher-country <http://purl.org/collections/iati/codelist/Country/GB> ;
+    iati:extras-publisher-iati-id <http://purl.org/collections/iati/codelist/OrganisationIdentifier/GB-CC-285776> ;
+    iati:extras-publisher-organization-type <http://purl.org/collections/iati/codelist/OrganisationType/21> ;
+    iati:extras-publishertype "primary_source" ;
+    iati:last-updated "2013-01-23T00:00:00" ;
+    iati:resources-format "IATI-XML" ;
+    iati:resources-hash "d39280b9231a676316a70685712b8693be5ed087" ;
+    iati:resources-id "c6d8f19d-448f-4154-921a-0bdc58da6adf" ;
+    iati:resources-mimetype "application/xml" ;
+    iati:resources-package-id "6e22f1bf-f10b-4ab4-8005-8a20de35f079" ;
+    iati:resources-position 0 ;
+    iati:resources-resource-group-id "79593c5f-04be-4dc3-9df9-14a962920818" ;
+    iati:resources-size "4943" ;
+    iati:resources-url <http://www.cafod.org.uk/extra/data/iati/IATIFile_Chad.xml> ;
+    iati:source-document-author <http://purl.org/collections/iati/graph/activity/GB-CHC-285776-CHA024/author> ;
+    iati:source-document-ckan-url <http://iatiregistry.org/dataset/cafod-chad> ;
+    iati:source-document-download-url <http://www.cafod.org.uk/extra/data/iati/IATIFile_Chad.xml> ;
+    iati:source-document-group "cafod" ;
+    iati:source-document-id "6e22f1bf-f10b-4ab4-8005-8a20de35f079" ;
+    iati:source-document-isopen true ;
+    iati:source-document-license "OKD Compliant::Creative Commons Attribution" ;
+    iati:source-document-license-id "cc-by" ;
+    iati:source-document-metadata-created "2013-04-09T14:58:20.460413" ;
+    iati:source-document-metadata-modified "2013-04-09T23:32:53.224926" ;
+    iati:source-document-ratings-count 0 ;
+    iati:source-document-revision-id "14c11164-fa13-4004-8e0c-3ce8732b90dd" ;
+    iati:source-document-state "active" ;
+    iati:source-document-title "CAFOD Activity File for Chad" ;
+    iati:version "1.00" .
+
+<http://purl.org/collections/iati/graph/activity/cafod-chad/author> a iati:author ;
+    iati:author-email "cafod@cafod.org.uk" .
+
